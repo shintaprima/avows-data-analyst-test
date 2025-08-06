@@ -1,0 +1,2001 @@
+user_id,client_id,total_amount,generation_age,gender,latitude,longitude,credit_score,credit_score_group
+1849,1849,424980,millennials,Female,47.13,-122.4,721,good
+827,827,301526,baby boomer,Female,43.1,-75.23,616,fair
+601,601,249046,baby boomer,Male,28.5,-81.37,761,very good
+1102,1102,1109732,gen X,Female,36.12,-95.91,707,good
+757,757,586271,baby boomer,Female,40.64,-73.94,691,good
+1492,1492,486809,baby boomer,Female,47.32,-121.99,786,very good
+1662,1662,981540,gen X,Male,38.53,-90.0,712,good
+1299,1299,261440,gen X,Female,39.29,-85.76,723,good
+1533,1533,595477,millennials,Female,39.77,-86.14,830,excellent
+1737,1737,269420,gen X,Male,42.46,-82.94,739,good
+1846,1846,188780,silent generation,Male,36.74,-91.86,566,poor
+75,75,417771,silent generation,Female,29.76,-95.38,564,poor
+1546,1546,302340,gen X,Male,43.3,-71.33,668,fair
+1183,1183,328556,gen X,Male,38.31,-85.76,740,very good
+1320,,,millennials,Female,34.02,-118.28,604,fair
+1960,,,millennials,Male,38.96,-76.85,612,fair
+1044,,,millennials,Male,36.44,-82.34,693,good
+945,,,gen Z,Male,32.79,-117.25,705,good
+1691,,,gen Z,Female,35.12,-81.51,692,good
+505,,,millennials,Female,25.77,-80.29,609,fair
+991,,,gen X,Male,41.37,-82.1,554,poor
+974,,,baby boomer,Male,34.73,-82.25,644,fair
+1291,1291,439068,gen X,Male,38.21,-91.16,699,good
+1445,1445,256963,baby boomer,Male,41.12,-85.87,841,excellent
+249,249,286126,gen X,Female,34.1,-117.38,618,fair
+37,37,399379,gen X,Female,43.31,-76.57,683,good
+1286,1286,716450,gen X,Female,42.76,-78.74,602,fair
+849,849,217173,baby boomer,Female,39.95,-75.16,711,good
+291,291,603041,baby boomer,Female,34.76,-84.97,793,very good
+162,162,522150,millennials,Male,42.56,-83.38,771,very good
+1026,1026,313524,silent generation,Male,36.52,-119.39,714,good
+868,868,619281,silent generation,Male,35.46,-97.51,706,good
+877,877,531445,millennials,Female,33.44,-111.85,610,fair
+1133,1133,311252,millennials,Female,43.11,-77.8,684,good
+172,172,232456,gen X,Female,39.85,-88.93,730,good
+1039,1039,564382,baby boomer,Male,34.04,-118.21,536,poor
+1996,1996,343969,gen X,Female,29.43,-95.24,728,good
+858,858,423436,gen X,Male,29.5,-97.44,700,good
+356,356,729030,gen X,Female,27.19,-80.24,691,good
+776,776,851428,baby boomer,Male,35.1,-90.0,616,fair
+1246,1246,320083,gen X,Female,30.76,-88.12,713,good
+1556,1556,228711,millennials,Female,46.8,-100.76,740,very good
+920,920,140240,gen X,Female,35.11,-106.62,700,good
+1609,1609,428425,baby boomer,Female,38.78,-77.27,779,very good
+1364,1364,57454,gen X,Male,32.93,-97.22,750,very good
+799,799,256764,millennials,Female,42.88,-78.85,686,good
+1289,1289,26673,millennials,Male,26.14,-80.13,758,very good
+731,731,242210,millennials,Male,40.32,-118.2,703,good
+116,116,391644,millennials,Male,42.95,-77.59,685,good
+897,897,56009,millennials,Female,31.07,-83.19,501,poor
+1188,,,gen Z,Female,36.3,-115.24,626,fair
+1590,,,gen X,Female,29.45,-98.5,599,fair
+1049,,,baby boomer,Female,25.77,-80.2,850,excellent
+853,,,millennials,Female,42.46,-83.37,723,good
+785,,,gen Z,Male,38.16,-121.93,740,very good
+1290,,,gen X,Male,33.1,-96.66,669,fair
+606,,,gen X,Male,39.4,-88.8,747,very good
+1798,,,silent generation,Male,40.69,-89.43,517,poor
+484,,,silent generation,Female,42.7,-71.11,718,good
+761,,,gen Z,Female,21.45,-158.01,726,good
+1718,1718,856554,silent generation,Female,34.02,-117.89,698,good
+1500,1500,442273,gen X,Male,38.44,-121.3,680,good
+649,649,240932,gen X,Male,41.5,-74.02,847,excellent
+1391,1391,929865,gen X,Male,40.72,-73.86,631,fair
+38,38,512938,gen X,Female,26.63,-81.85,621,fair
+803,803,247943,baby boomer,Female,37.53,-120.84,635,fair
+1764,1764,280442,baby boomer,Male,42.96,-85.65,710,good
+905,905,794341,baby boomer,Male,37.55,-122.26,701,good
+790,790,403035,millennials,Female,32.9,-116.89,743,very good
+1567,1567,577484,gen X,Female,42.1,-76.26,747,very good
+1830,1830,469032,baby boomer,Male,35.05,-83.19,758,very good
+944,944,1077169,baby boomer,Male,33.77,-118.34,789,very good
+1875,1875,448303,baby boomer,Male,40.89,-81.58,683,good
+180,180,228888,millennials,Female,33.53,-112.18,840,excellent
+1753,1753,389193,gen X,Male,32.28,-90.0,506,poor
+1387,,,millennials,Male,35.72,-78.84,785,very good
+1175,,,silent generation,Male,40.84,-73.87,770,very good
+1714,,,gen Z,Female,30.06,-95.38,794,very good
+412,,,millennials,Male,36.07,-94.15,810,excellent
+1747,,,gen X,Male,32.15,-94.79,719,good
+1804,,,gen Z,Male,41.56,-70.55,701,good
+1465,,,millennials,Female,39.53,-84.08,801,excellent
+1480,,,gen X,Male,35.11,-106.62,705,good
+1327,,,gen Z,Female,45.94,-122.67,688,good
+240,240,233043,gen X,Male,36.21,-83.29,745,very good
+677,677,448866,gen X,Male,44.94,-93.1,729,good
+1785,1785,232413,gen X,Male,25.92,-97.48,607,fair
+161,161,394820,millennials,Male,31.56,-97.18,731,good
+1897,1897,695197,millennials,Male,40.87,-73.4,741,very good
+1348,1348,80877,silent generation,Male,40.64,-73.94,667,fair
+1379,1379,689061,silent generation,Male,42.58,-82.91,701,good
+287,287,280639,gen X,Female,29.31,-95.01,710,good
+554,554,669209,baby boomer,Male,29.66,-95.04,690,good
+1642,1642,342713,millennials,Female,39.96,-74.06,731,good
+1240,1240,336795,baby boomer,Female,40.26,-81.84,693,good
+1503,1503,237669,baby boomer,Male,32.35,-86.28,725,good
+616,616,93752,gen X,Female,32.19,-88.05,586,fair
+689,,,baby boomer,Female,40.76,-74.23,709,good
+1661,,,gen X,Female,39.09,-76.85,728,good
+687,,,gen Z,Male,42.24,-84.4,725,good
+915,,,gen X,Male,43.08,-76.37,728,good
+995,,,gen X,Female,35.46,-97.51,592,fair
+1637,,,millennials,Female,34.99,-80.86,687,good
+436,,,gen Z,Female,40.32,-75.32,623,fair
+1337,,,millennials,Male,27.27,-80.35,800,excellent
+112,112,961928,gen X,Female,43.98,-75.6,686,good
+814,814,402705,baby boomer,Male,27.98,-80.66,748,very good
+1837,1837,362931,baby boomer,Female,33.97,-118.24,766,very good
+1458,1458,265554,millennials,Male,30.06,-89.93,708,good
+385,385,273695,silent generation,Male,32.23,-80.86,740,very good
+699,699,246288,gen X,Male,41.48,-91.57,698,good
+810,810,611625,silent generation,Female,37.68,-85.22,705,good
+1173,1173,455920,baby boomer,Male,42.83,-106.32,722,good
+401,401,397628,silent generation,Male,34.2,-118.39,806,excellent
+1896,1896,385940,gen X,Female,41.91,-83.38,641,fair
+771,771,275615,gen X,Male,42.33,-122.79,765,very good
+696,696,836717,silent generation,Female,40.63,-73.72,766,very good
+1693,1693,456150,millennials,Female,33.61,-111.89,702,good
+1383,1383,700954,baby boomer,Female,42.39,-71.1,670,good
+1404,1404,212407,gen X,Female,32.3,-95.47,526,poor
+1228,1228,400149,gen X,Male,30.26,-97.74,726,good
+1245,1245,346342,gen X,Female,37.43,-76.54,802,excellent
+832,832,470857,gen X,Female,33.2,-96.65,625,fair
+1493,1493,606705,millennials,Male,38.22,-122.55,765,very good
+1282,1282,294621,millennials,Female,45.76,-108.57,695,good
+1366,1366,256718,millennials,Female,30.33,-81.65,767,very good
+647,647,110495,millennials,Female,36.52,-119.39,758,very good
+670,,,gen Z,Female,42.31,-83.21,801,excellent
+1655,,,baby boomer,Male,42.24,-83.18,830,excellent
+1373,,,millennials,Female,41.07,-85.13,764,very good
+1354,,,millennials,Male,35.46,-86.08,692,good
+445,,,gen X,Female,43.88,-85.8,645,fair
+593,,,gen Z,Male,40.52,-122.32,635,fair
+158,,,millennials,Female,45.2,-122.06,747,very good
+439,,,millennials,Female,41.47,-87.05,697,good
+1822,,,silent generation,Female,27.09,-82.43,767,very good
+276,,,gen Z,Male,27.53,-99.48,610,fair
+1481,,,baby boomer,Male,37.78,-121.99,632,fair
+1722,,,gen Z,Female,37.96,-121.26,600,fair
+830,,,millennials,Female,29.99,-95.26,688,good
+503,503,193858,gen X,Female,41.83,-87.68,694,good
+1075,1075,696560,millennials,Female,38.22,-85.74,672,good
+1269,1269,591186,baby boomer,Male,41.83,-87.68,676,good
+1873,1873,838632,gen X,Female,31.84,-106.43,651,fair
+1091,1091,419559,millennials,Female,39.3,-76.61,656,fair
+366,366,469181,gen X,Female,44.01,-88.55,625,fair
+1248,1248,348940,gen X,Female,42.68,-89.01,698,good
+176,176,606779,gen X,Female,33.74,-84.31,667,fair
+1142,1142,563453,gen X,Male,42.15,-71.13,716,good
+1962,1962,583692,millennials,Male,41.8,-87.92,712,good
+1058,1058,608095,baby boomer,Male,36.18,-87.34,684,good
+1639,1639,986055,baby boomer,Male,42.12,-80.08,676,good
+146,146,432111,gen X,Female,41.85,-88.3,717,good
+820,820,653007,baby boomer,Female,41.7,-70.3,633,fair
+1675,1675,499436,millennials,Male,47.14,-122.32,767,very good
+227,227,657270,gen X,Male,44.96,-93.26,736,good
+1569,1569,373975,baby boomer,Female,43.54,-96.73,722,good
+64,64,551113,millennials,Female,34.0,-118.03,702,good
+816,816,300284,baby boomer,Male,36.56,-82.19,759,very good
+1971,1971,343573,gen X,Male,43.45,-76.5,763,very good
+121,121,511328,millennials,Female,44.21,-88.43,721,good
+42,42,223145,silent generation,Female,30.84,-83.27,684,good
+320,320,323907,millennials,Male,32.22,-110.82,625,fair
+1645,1645,353618,baby boomer,Female,41.47,-81.85,716,good
+1003,1003,1004742,gen X,Male,40.2,-74.78,632,fair
+86,86,132232,gen Z,Male,33.0,-81.3,799,very good
+1502,,,gen Z,Male,39.1,-77.55,787,very good
+1350,,,gen Z,Female,33.84,-118.07,651,fair
+681,,,gen Z,Female,40.0,-76.84,654,fair
+409,,,gen X,Female,42.49,-92.35,711,good
+857,,,silent generation,Male,39.46,-74.99,615,fair
+1085,,,millennials,Female,32.97,-117.02,838,excellent
+1574,,,gen Z,Female,34.89,-77.54,746,very good
+1784,,,gen X,Male,38.96,-90.18,690,good
+1402,,,millennials,Male,34.72,-92.35,590,fair
+1965,,,gen Z,Male,43.9,-123.02,745,very good
+1839,,,baby boomer,Female,37.13,-85.96,631,fair
+1953,,,millennials,Female,43.59,-88.28,842,excellent
+698,,,baby boomer,Female,42.62,-73.83,699,good
+730,,,gen X,Male,38.9,-94.68,713,good
+1698,,,millennials,Male,40.87,-73.32,747,very good
+685,,,gen Z,Male,44.26,-88.39,778,very good
+1688,,,millennials,Female,37.16,-81.5,743,very good
+1405,1405,626066,gen X,Male,47.91,-97.07,777,very good
+1895,1895,367986,baby boomer,Female,39.75,-74.22,706,good
+1916,1916,262043,silent generation,Male,30.65,-84.69,767,very good
+1858,1858,185161,baby boomer,Male,34.25,-118.41,705,good
+912,912,349041,gen X,Male,25.77,-80.2,755,very good
+369,369,879256,millennials,Male,38.22,-85.74,788,very good
+21,21,289794,gen X,Male,39.47,-87.38,850,excellent
+246,246,631326,gen X,Female,44.96,-93.26,791,very good
+1730,1730,229052,gen X,Female,40.71,-74.06,739,good
+523,523,528710,millennials,Female,42.77,-86.1,773,very good
+1489,,,baby boomer,Female,43.03,-71.07,691,good
+1004,,,baby boomer,Male,37.2,-87.17,705,good
+701,,,millennials,Female,27.75,-82.64,701,good
+594,,,millennials,Male,35.88,-80.07,698,good
+1351,,,gen Z,Female,61.14,-149.76,808,excellent
+407,,,gen Z,Female,41.83,-87.68,750,very good
+1801,,,gen Z,Female,33.29,-117.3,480,poor
+607,,,millennials,Male,41.92,-87.81,771,very good
+775,,,millennials,Male,34.17,-118.46,627,fair
+725,,,gen Z,Male,42.35,-71.06,709,good
+1869,,,millennials,Male,34.78,-86.95,702,good
+1894,,,gen Z,Female,41.51,-93.48,790,very good
+12,,,gen Z,Female,38.06,-78.9,748,very good
+926,,,gen Z,Female,41.14,-81.36,776,very good
+1205,,,gen Z,Male,32.32,-95.3,680,good
+1774,1774,458894,gen X,Male,44.96,-93.26,758,very good
+1618,1618,498036,gen X,Male,40.91,-73.82,682,good
+33,33,520895,silent generation,Female,39.21,-119.71,596,fair
+1028,1028,878240,gen X,Male,41.83,-87.68,682,good
+1288,1288,501970,gen X,Female,38.47,-81.81,634,fair
+252,252,540406,baby boomer,Male,40.58,-82.42,723,good
+497,497,528126,baby boomer,Male,43.54,-96.73,850,excellent
+1117,1117,1026859,gen X,Female,41.36,-97.97,687,good
+772,772,183370,baby boomer,Female,45.47,-122.37,741,very good
+1776,1776,1331712,gen X,Male,40.04,-82.12,693,good
+247,247,1032587,gen X,Female,30.21,-93.2,761,very good
+1243,1243,642801,millennials,Female,40.27,-76.88,705,good
+1521,1521,210767,baby boomer,Female,32.75,-97.77,706,good
+434,434,421162,millennials,Female,42.02,-93.62,785,very good
+660,660,195900,millennials,Female,37.55,-77.46,680,good
+1392,,,gen Z,Male,33.62,-112.05,743,very good
+981,,,gen X,Male,34.23,-119.07,671,good
+1068,,,gen Z,Male,35.1,-110.64,730,good
+551,,,baby boomer,Male,39.14,-119.71,776,very good
+1554,,,gen X,Male,41.68,-72.94,696,good
+1186,,,gen X,Male,39.95,-75.16,577,poor
+614,614,273805,silent generation,Female,35.4,-80.59,779,very good
+1786,1786,357738,gen X,Female,40.83,-81.26,755,very good
+580,580,549496,millennials,Male,40.55,-84.57,768,very good
+1997,1997,592188,silent generation,Male,44.92,-93.4,758,very good
+1659,1659,1014300,silent generation,Female,42.26,-88.13,782,very good
+376,376,881765,gen X,Female,39.8,-74.62,773,very good
+1163,1163,341029,gen X,Male,29.99,-95.26,489,poor
+1253,1253,1106536,millennials,Female,41.44,-73.04,768,very good
+855,855,181909,gen X,Male,32.32,-90.2,699,good
+241,241,417681,baby boomer,Female,34.93,-79.76,737,good
+802,802,553473,millennials,Female,38.74,-121.25,752,very good
+1461,1461,301026,gen X,Female,41.24,-81.82,704,good
+598,598,1113838,gen X,Male,44.22,-71.74,628,fair
+949,949,588195,millennials,Female,40.45,-74.48,709,good
+402,402,561623,gen X,Male,33.83,-83.89,744,very good
+1568,1568,546539,gen X,Female,40.67,-73.39,748,very good
+46,46,439077,baby boomer,Male,40.66,-73.84,632,fair
+1959,1959,444875,gen X,Male,41.57,-81.2,701,good
+1471,1471,317142,millennials,Male,35.1,-90.0,786,very good
+1862,1862,116960,millennials,Female,41.57,-93.61,686,good
+1199,,,millennials,Male,42.93,-75.38,720,good
+969,,,gen Z,Female,33.81,-117.79,666,fair
+143,,,gen Z,Female,41.55,-87.66,771,very good
+498,,,gen Z,Male,20.88,-156.5,660,fair
+1035,,,gen Z,Male,38.62,-121.32,701,good
+1824,,,gen Z,Male,40.44,-86.91,838,excellent
+834,,,gen Z,Male,33.95,-118.36,746,very good
+49,,,millennials,Male,40.81,-81.93,686,good
+1025,,,gen Z,Male,34.05,-79.75,664,fair
+611,,,gen Z,Male,42.26,-88.0,758,very good
+352,,,gen Z,Male,34.21,-119.18,680,good
+1399,,,millennials,Male,32.08,-81.1,707,good
+804,804,465271,baby boomer,Male,36.97,-86.44,812,excellent
+1915,1915,894382,gen X,Male,41.32,-74.18,775,very good
+650,650,208039,gen X,Male,32.75,-97.33,707,good
+1382,1382,548861,baby boomer,Male,32.79,-96.76,706,good
+360,360,415212,gen X,Male,39.22,-74.8,791,very good
+758,758,214880,baby boomer,Male,34.09,-118.13,764,very good
+300,300,401901,gen X,Male,41.36,-73.2,750,very good
+351,351,269392,silent generation,Female,40.77,-73.84,807,excellent
+1758,1758,370018,baby boomer,Male,32.32,-90.2,645,fair
+1820,1820,215168,baby boomer,Female,25.77,-80.2,693,good
+1534,1534,1071426,millennials,Male,39.9,-74.99,803,excellent
+933,933,246813,gen X,Male,36.36,-96.03,690,good
+1105,1105,756796,silent generation,Male,26.21,-98.31,670,good
+1857,1857,718321,millennials,Male,40.77,-74.39,775,very good
+1080,1080,332180,baby boomer,Female,32.19,-83.17,703,good
+979,979,328196,baby boomer,Male,34.06,-117.79,693,good
+1749,1749,156477,gen X,Female,42.39,-83.05,614,fair
+305,305,238039,gen X,Male,44.37,-73.4,755,very good
+1499,1499,150253,gen X,Male,41.97,-88.14,662,fair
+1589,1589,129946,millennials,Female,34.02,-118.15,702,good
+1833,1833,158721,millennials,Male,35.58,-88.5,743,very good
+26,,,gen X,Female,40.68,-80.27,685,good
+617,,,millennials,Female,38.03,-78.48,691,good
+829,,,millennials,Female,35.36,-79.13,726,good
+1160,,,millennials,Male,41.8,-80.06,688,good
+179,,,millennials,Female,34.98,-80.54,652,fair
+326,,,gen Z,Male,40.26,-80.18,652,fair
+1272,,,millennials,Male,36.0,-115.04,779,very good
+367,,,millennials,Female,41.52,-87.42,756,very good
+838,,,millennials,Male,33.78,-84.44,763,very good
+1922,,,silent generation,Male,32.85,-117.2,640,fair
+562,,,millennials,Female,39.95,-104.9,673,good
+781,,,millennials,Male,32.33,-106.75,602,fair
+835,,,millennials,Male,29.79,-90.82,681,good
+1287,,,millennials,Female,35.55,-77.05,545,poor
+1667,,,gen Z,Male,34.82,-89.98,588,fair
+1614,,,gen X,Female,35.48,-96.89,716,good
+1532,,,millennials,Female,39.53,-79.01,759,very good
+935,,,gen Z,Female,31.5,-82.85,728,good
+1098,1098,1460001,gen X,Male,42.67,-95.3,752,very good
+1456,1456,738564,gen X,Male,33.12,-89.05,681,good
+1041,1041,339501,gen X,Female,34.87,-85.5,639,fair
+1046,1046,437764,gen X,Male,39.95,-75.16,547,poor
+1771,1771,487215,gen X,Male,38.76,-121.28,794,very good
+1115,1115,698395,gen X,Male,32.32,-95.3,693,good
+1376,1376,515551,gen X,Female,30.51,-97.83,543,poor
+723,723,241596,baby boomer,Female,29.76,-95.38,828,excellent
+1019,1019,416978,silent generation,Female,34.09,-117.96,713,good
+1106,1106,304963,baby boomer,Female,34.13,-118.24,699,good
+1094,1094,225669,millennials,Male,44.75,-85.6,712,good
+697,697,350998,baby boomer,Female,35.72,-78.84,742,very good
+1187,1187,191721,baby boomer,Male,44.78,-89.68,701,good
+1016,1016,52390,gen X,Female,32.95,-117.19,719,good
+1879,1879,203597,gen X,Male,35.66,-80.48,609,fair
+988,988,404184,baby boomer,Male,29.91,-90.05,785,very good
+144,144,456968,gen X,Female,34.5,-93.05,835,excellent
+35,,,gen Z,Male,43.66,-70.25,773,very good
+1319,,,gen Z,Female,38.2,-84.55,546,poor
+1185,,,millennials,Female,33.95,-84.54,780,very good
+1572,,,gen X,Female,30.68,-88.04,658,fair
+1021,,,gen Z,Female,34.14,-117.85,751,very good
+270,,,millennials,Male,39.02,-84.56,655,fair
+347,,,millennials,Female,25.77,-80.2,557,poor
+228,,,gen X,Female,28.55,-82.39,623,fair
+1934,,,gen X,Female,34.0,-118.3,691,good
+568,,,gen Z,Male,42.5,-94.17,778,very good
+399,,,millennials,Female,42.35,-71.85,802,excellent
+911,,,gen Z,Male,37.33,-88.07,757,very good
+777,,,gen Z,Male,37.37,-122.21,700,good
+1496,,,gen Z,Male,41.75,-70.61,713,good
+529,,,baby boomer,Male,42.89,-70.87,721,good
+1681,,,gen Z,Male,38.63,-90.24,746,very good
+499,,,gen Z,Male,40.71,-73.99,742,very good
+153,153,246073,silent generation,Female,35.29,-111.32,660,fair
+1898,1898,523307,gen X,Male,32.35,-86.28,675,good
+81,81,598038,baby boomer,Female,29.57,-97.96,723,good
+1166,1166,399775,gen X,Female,39.39,-84.56,682,good
+1755,1755,406655,gen X,Male,31.96,-83.77,734,good
+156,156,295814,millennials,Female,34.08,-117.46,691,good
+437,437,528610,gen X,Female,39.04,-76.49,718,good
+87,87,357134,baby boomer,Male,26.13,-97.63,802,excellent
+1619,1619,198879,millennials,Male,33.61,-96.6,747,very good
+1140,1140,461277,gen X,Male,38.96,-95.25,703,good
+751,751,440208,baby boomer,Female,33.45,-96.74,593,fair
+1788,1788,377338,baby boomer,Female,29.71,-90.59,673,good
+970,970,396646,gen X,Male,29.1,-81.0,770,very good
+1466,1466,431177,millennials,Female,38.64,-75.61,812,excellent
+403,403,227185,millennials,Male,32.15,-94.79,759,very good
+837,837,238393,millennials,Male,39.15,-80.35,679,good
+1577,1577,245703,gen X,Male,27.33,-82.54,718,good
+1191,,,millennials,Female,45.19,-123.24,711,good
+1182,,,millennials,Male,43.21,-75.47,658,fair
+1738,,,millennials,Male,35.67,-97.41,696,good
+1887,,,gen Z,Male,26.63,-81.85,503,poor
+70,,,gen Z,Male,40.26,-76.71,635,fair
+471,,,gen X,Male,38.57,-121.17,629,fair
+959,,,millennials,Female,40.22,-74.93,738,good
+404,,,gen X,Male,29.77,-82.48,625,fair
+302,,,millennials,Female,38.41,-78.61,706,good
+284,,,gen X,Male,33.44,-111.76,754,very good
+904,,,millennials,Male,37.96,-76.51,759,very good
+886,,,gen Z,Male,40.17,-74.91,726,good
+6,,,gen Z,Female,32.88,-117.13,782,very good
+394,394,662315,gen X,Male,41.09,-73.55,684,good
+733,733,1028552,millennials,Male,31.49,-97.23,606,fair
+789,789,373281,gen X,Female,39.59,-75.17,690,good
+165,165,1245045,millennials,Male,37.83,-122.22,694,good
+642,642,330619,millennials,Female,33.11,-94.16,648,fair
+1853,1853,223700,millennials,Male,40.34,-94.87,771,very good
+206,206,276858,millennials,Female,42.89,-85.72,782,very good
+94,94,473021,baby boomer,Female,35.71,-81.15,593,fair
+1983,1983,600415,gen X,Male,33.55,-117.78,773,very good
+1772,1772,658639,gen X,Male,34.09,-117.58,761,very good
+1807,1807,914032,gen X,Female,40.84,-73.87,828,excellent
+1549,1549,396784,baby boomer,Male,29.76,-95.38,747,very good
+458,458,355120,gen X,Male,33.63,-112.09,530,poor
+145,145,141199,baby boomer,Female,36.18,-82.07,696,good
+53,53,723101,gen X,Female,38.62,-120.62,701,good
+1595,1595,1316541,gen X,Female,40.84,-73.87,753,very good
+744,744,317312,baby boomer,Female,25.77,-80.2,842,excellent
+1531,1531,196940,millennials,Male,34.47,-85.34,792,very good
+313,313,236856,millennials,Female,36.73,-95.94,693,good
+1793,1793,105826,millennials,Male,34.77,-89.44,825,excellent
+518,,,millennials,Male,44.06,-70.39,523,poor
+1333,,,gen Z,Male,27.75,-82.64,741,very good
+956,,,millennials,Female,39.98,-82.98,804,excellent
+288,,,gen X,Female,33.17,-90.48,789,very good
+682,,,baby boomer,Male,40.69,-111.99,724,good
+378,,,gen Z,Female,46.21,-119.16,596,fair
+1864,,,gen Z,Male,42.79,-73.67,701,good
+344,,,gen Z,Male,34.22,-118.59,577,poor
+916,,,gen Z,Male,36.04,-86.64,682,good
+1310,,,millennials,Female,33.92,-78.02,751,very good
+557,557,625674,baby boomer,Male,33.97,-118.35,669,fair
+1229,1229,517223,gen X,Male,35.18,-79.46,713,good
+1635,1635,275456,gen X,Male,40.68,-73.78,616,fair
+1407,1407,889254,gen X,Male,33.43,-86.99,689,good
+566,566,628043,baby boomer,Female,42.79,-83.62,814,excellent
+1710,1710,311192,millennials,Female,43.54,-89.46,787,very good
+169,169,105698,silent generation,Male,33.94,-80.39,686,good
+124,124,213273,millennials,Female,34.6,-98.42,680,good
+918,918,331782,gen X,Female,40.32,-80.21,703,good
+1998,1998,74774,baby boomer,Male,37.56,-122.37,688,good
+760,760,496658,baby boomer,Female,39.98,-82.98,778,very good
+1815,1815,456436,baby boomer,Female,41.82,-71.41,758,very good
+457,457,647693,millennials,Female,35.19,-80.83,705,good
+1802,1802,1344930,millennials,Female,40.34,-74.44,802,excellent
+502,502,687914,gen X,Male,40.93,-79.59,745,very good
+473,473,148206,millennials,Female,42.38,-83.1,682,good
+1230,,,gen Z,Male,32.3,-80.92,754,very good
+255,,,gen Z,Female,29.79,-95.82,718,good
+880,,,millennials,Male,48.95,-122.43,685,good
+1013,,,gen Z,Female,38.99,-105.05,711,good
+1708,,,gen Z,Male,37.48,-97.24,850,excellent
+578,,,silent generation,Male,38.04,-84.45,777,very good
+1732,,,gen X,Female,37.77,-122.21,637,fair
+591,,,gen X,Male,34.97,-89.99,696,good
+1051,,,millennials,Female,41.7,-71.42,694,good
+492,,,gen X,Male,34.95,-82.12,850,excellent
+501,,,gen Z,Male,30.68,-88.04,765,very good
+902,,,millennials,Male,33.15,-117.17,635,fair
+1952,,,millennials,Female,27.75,-82.64,821,excellent
+140,140,287202,millennials,Female,36.28,-86.83,739,good
+397,397,174895,millennials,Female,39.95,-75.16,770,very good
+1512,1512,413798,gen X,Male,39.77,-86.14,778,very good
+1081,1081,793494,millennials,Female,39.69,-104.81,617,fair
+1406,1406,160751,millennials,Male,36.12,-95.91,712,good
+1463,1463,602425,silent generation,Female,42.15,-74.53,732,good
+1490,1490,350187,millennials,Female,39.86,-104.86,761,very good
+142,142,793095,baby boomer,Female,41.9,-72.08,675,good
+1977,1977,324094,gen X,Female,41.5,-87.5,773,very good
+110,110,410111,gen X,Female,30.26,-97.74,737,good
+900,900,311718,millennials,Male,30.17,-85.67,735,good
+1674,1674,165002,baby boomer,Male,35.49,-90.35,712,good
+1429,1429,277696,baby boomer,Female,39.76,-104.87,799,very good
+58,58,361525,millennials,Female,38.81,-90.96,706,good
+1494,1494,97951,millennials,Male,26.14,-80.13,711,good
+1231,,,millennials,Female,26.41,-81.42,842,excellent
+925,,,millennials,Male,38.76,-89.97,610,fair
+836,,,gen Z,Male,34.09,-117.96,689,good
+1409,,,gen Z,Male,42.77,-86.1,701,good
+1386,,,baby boomer,Male,41.39,-84.12,712,good
+903,,,millennials,Male,41.38,-72.85,717,good
+1071,,,millennials,Male,44.07,-103.23,838,excellent
+1001,,,gen Z,Male,36.56,-82.19,716,good
+1608,,,gen Z,Female,31.85,-102.36,572,poor
+297,,,gen Z,Male,37.91,-76.47,738,good
+1547,,,millennials,Male,43.54,-89.46,684,good
+881,,,baby boomer,Female,39.85,-75.18,696,good
+188,,,gen Z,Male,38.85,-77.29,845,excellent
+465,465,223892,gen X,Male,34.42,-84.11,724,good
+222,222,623608,gen X,Female,33.76,-84.33,714,good
+795,795,910466,gen X,Female,32.79,-96.76,759,very good
+357,357,470383,baby boomer,Female,42.35,-71.06,735,good
+425,425,751480,millennials,Male,36.46,-121.82,688,good
+552,552,640574,gen X,Male,29.67,-82.33,602,fair
+1797,1797,1353155,baby boomer,Male,37.71,-122.16,743,very good
+303,303,1304663,silent generation,Male,40.48,-104.9,690,good
+811,811,811047,silent generation,Female,38.9,-94.68,741,very good
+1603,1603,324485,gen X,Male,44.65,-114.15,762,very good
+1678,1678,405900,millennials,Male,41.7,-72.67,685,good
+1298,1298,190761,millennials,Female,34.01,-118.2,729,good
+452,452,799652,millennials,Male,29.76,-95.38,704,good
+801,801,230986,silent generation,Female,32.73,-101.95,723,good
+1888,1888,1435860,silent generation,Female,44.65,-93.17,748,very good
+1564,1564,236274,millennials,Male,35.2,-101.81,683,good
+1313,1313,539338,millennials,Male,40.61,-79.83,653,fair
+1195,1195,611235,silent generation,Male,44.01,-92.47,801,excellent
+1251,1251,316405,millennials,Female,32.84,-116.88,750,very good
+1697,1697,278649,baby boomer,Male,42.06,-83.97,685,good
+1563,1563,396059,gen X,Female,33.96,-118.27,683,good
+939,939,293543,silent generation,Female,40.04,-76.3,696,good
+1293,1293,924320,millennials,Female,29.45,-95.06,706,good
+1047,1047,500950,millennials,Male,37.55,-77.46,689,good
+1167,,,gen X,Female,40.33,-75.92,769,very good
+1673,,,gen X,Male,43.46,-85.95,772,very good
+1438,,,millennials,Female,41.47,-81.67,700,good
+413,,,gen Z,Male,33.86,-84.68,660,fair
+818,,,gen X,Female,27.98,-80.66,770,very good
+192,,,millennials,Male,38.65,-121.25,761,very good
+735,,,gen X,Female,47.79,-122.2,752,very good
+1037,,,millennials,Male,29.67,-82.33,653,fair
+1716,,,gen Z,Female,32.21,-98.67,746,very good
+1321,,,gen X,Female,40.26,-103.79,696,good
+1010,,,gen X,Female,34.17,-82.02,548,poor
+1611,,,baby boomer,Female,33.87,-78.63,684,good
+1277,,,millennials,Male,43.1,-76.21,692,good
+1663,,,gen Z,Male,41.83,-87.68,581,fair
+1907,,,millennials,Female,22.21,-159.41,666,fair
+36,,,millennials,Male,37.23,-80.42,722,good
+1209,1209,1047700,gen X,Female,40.94,-73.86,699,good
+1487,1487,1141198,baby boomer,Female,40.69,-80.01,727,good
+1694,1694,580716,silent generation,Female,41.09,-73.55,726,good
+96,96,2445601,baby boomer,Female,33.89,-117.78,685,good
+1088,1088,349093,gen X,Female,32.78,-79.99,765,very good
+208,208,1191548,millennials,Female,47.79,-122.2,804,excellent
+644,644,215605,baby boomer,Female,34.42,-84.11,741,very good
+150,150,684371,gen X,Female,38.7,-77.24,782,very good
+460,460,616979,baby boomer,Male,41.02,-73.8,608,fair
+211,211,223566,gen X,Male,34.61,-114.3,755,very good
+639,639,512625,gen X,Female,41.12,-83.01,654,fair
+69,69,254191,gen X,Female,40.52,-81.47,748,very good
+672,672,387812,millennials,Male,35.81,-83.25,722,good
+1168,1168,1590324,gen X,Male,40.67,-74.42,505,poor
+819,819,284094,baby boomer,Female,40.43,-79.97,687,good
+1201,1201,646025,baby boomer,Male,42.36,-71.36,715,good
+1434,1434,183768,baby boomer,Male,26.45,-80.08,717,good
+1735,1735,239192,baby boomer,Male,27.64,-80.39,614,fair
+1367,1367,243504,gen X,Female,44.52,-87.98,708,good
+1226,1226,590023,gen X,Male,21.34,-157.72,714,good
+1558,1558,874541,gen X,Female,40.64,-73.94,597,fair
+1523,1523,185080,baby boomer,Female,36.07,-79.82,850,excellent
+1606,1606,412512,gen X,Male,30.68,-88.04,806,excellent
+1353,1353,264040,gen X,Female,40.46,-111.63,816,excellent
+1427,1427,588134,millennials,Female,35.19,-80.83,770,very good
+196,196,241390,gen X,Female,33.29,-83.96,773,very good
+753,753,200781,gen X,Female,33.24,-87.59,605,fair
+934,,,millennials,Female,42.38,-76.39,762,very good
+1483,,,gen Z,Male,41.93,-71.29,714,good
+30,,,gen Z,Female,31.96,-94.05,577,poor
+309,,,millennials,Male,32.07,-82.91,819,excellent
+1829,,,gen Z,Male,33.34,-84.1,710,good
+1506,,,millennials,Male,33.52,-86.79,614,fair
+1264,,,millennials,Female,36.8,-97.29,815,excellent
+493,,,gen Z,Male,32.76,-96.59,786,very good
+1408,,,gen X,Male,33.31,-81.13,683,good
+978,,,gen Z,Female,30.06,-89.93,760,very good
+1265,,,gen Z,Female,40.43,-79.97,748,very good
+1721,,,millennials,Female,46.11,-118.3,642,fair
+420,,,gen Z,Male,33.82,-117.91,744,very good
+1799,1799,711877,millennials,Male,47.75,-122.04,646,fair
+655,655,319556,gen X,Female,41.44,-82.18,552,poor
+1692,1692,1273463,silent generation,Female,41.03,-73.86,542,poor
+477,477,497419,baby boomer,Male,44.75,-68.67,697,good
+125,125,169582,baby boomer,Female,37.63,-121.01,724,good
+1622,1622,573983,gen X,Female,42.15,-71.13,759,very good
+884,884,528404,silent generation,Male,42.97,-85.77,631,fair
+1700,1700,212767,gen X,Female,40.81,-81.93,822,excellent
+113,113,478730,baby boomer,Female,32.86,-97.21,788,very good
+1258,1258,388959,silent generation,Female,33.99,-117.53,789,very good
+1022,1022,657542,gen X,Female,34.98,-80.54,635,fair
+674,674,307870,baby boomer,Female,32.73,-117.08,756,very good
+947,947,710539,baby boomer,Male,40.64,-73.94,710,good
+1640,1640,252300,baby boomer,Female,41.89,-84.04,729,good
+1181,1181,455648,baby boomer,Male,35.4,-80.59,810,excellent
+410,410,92390,gen X,Female,40.62,-96.63,610,fair
+1030,1030,295869,gen X,Male,45.63,-122.52,705,good
+1861,1861,439656,baby boomer,Female,33.1,-96.66,779,very good
+225,225,413884,millennials,Male,29.76,-95.38,688,good
+1095,1095,276743,baby boomer,Male,40.7,-73.89,750,very good
+985,985,965801,millennials,Male,42.8,-83.71,600,fair
+489,489,254378,millennials,Male,40.87,-97.59,684,good
+608,608,114786,millennials,Male,37.78,-121.99,769,very good
+856,856,1109874,gen X,Male,38.98,-77.12,748,very good
+1544,1544,475547,millennials,Female,40.1,-84.62,679,good
+310,,,millennials,Male,38.72,-121.0,666,fair
+444,,,gen Z,Female,40.84,-73.87,748,very good
+381,,,millennials,Male,38.72,-90.47,675,good
+1625,,,gen Z,Female,47.67,-122.18,659,fair
+817,,,millennials,Male,30.06,-89.93,803,excellent
+481,,,gen Z,Male,42.41,-71.16,653,fair
+1892,,,gen Z,Male,35.01,-97.33,637,fair
+603,,,gen X,Female,35.48,-97.26,611,fair
+766,,,gen X,Female,28.23,-82.17,685,good
+695,,,gen X,Female,29.48,-95.1,662,fair
+1273,,,gen Z,Male,41.88,-87.97,762,very good
+382,,,baby boomer,Male,34.0,-118.28,681,good
+1536,,,gen X,Male,36.15,-85.5,766,very good
+201,201,170074,baby boomer,Male,41.52,-88.12,732,good
+1843,1843,812114,silent generation,Male,41.5,-87.63,760,very good
+1177,1177,389139,millennials,Female,39.67,-75.75,695,good
+1424,1424,291925,greatest generation,Female,35.13,-112.99,761,very good
+1077,1077,537799,baby boomer,Female,39.12,-123.28,576,poor
+618,618,156799,millennials,Male,33.92,-118.2,701,good
+1827,1827,612235,baby boomer,Male,33.25,-116.98,686,good
+1234,1234,229696,gen X,Male,29.76,-95.38,749,very good
+1247,1247,456629,baby boomer,Female,35.54,-118.91,700,good
+47,47,321715,gen X,Male,40.84,-73.87,712,good
+55,55,294170,baby boomer,Female,37.92,-122.34,717,good
+1644,1644,482348,silent generation,Male,34.66,-83.09,686,good
+16,16,378540,silent generation,Male,41.88,-87.84,681,good
+720,720,128921,millennials,Female,42.38,-83.1,682,good
+1279,1279,545955,silent generation,Male,42.47,-83.49,509,poor
+1507,1507,197066,millennials,Female,42.48,-89.03,744,very good
+514,514,433681,baby boomer,Male,28.08,-80.6,698,good
+224,,,gen Z,Female,40.69,-73.85,798,very good
+1372,,,silent generation,Female,34.95,-96.75,697,good
+812,,,gen X,Female,42.78,-72.48,659,fair
+1726,,,baby boomer,Female,27.75,-82.64,687,good
+1377,,,millennials,Female,32.91,-96.62,569,poor
+1124,,,gen X,Male,37.62,-83.41,841,excellent
+1821,,,gen Z,Male,38.27,-104.62,803,excellent
+411,,,millennials,Male,43.97,-75.91,775,very good
+874,,,gen Z,Male,39.38,-119.67,798,very good
+1933,,,millennials,Male,29.57,-81.21,589,fair
+1055,,,millennials,Male,28.5,-81.37,594,fair
+417,,,gen Z,Male,35.1,-90.0,762,very good
+1388,,,millennials,Male,39.09,-76.85,691,good
+384,,,gen Z,Male,42.58,-83.03,702,good
+1220,,,gen Z,Female,41.7,-111.87,641,fair
+1342,,,millennials,Female,42.91,-78.7,717,good
+656,,,baby boomer,Female,35.06,-85.09,704,good
+446,,,gen Z,Male,40.69,-73.73,703,good
+927,,,millennials,Male,42.48,-71.15,729,good
+1701,,,baby boomer,Male,33.94,-118.24,726,good
+304,,,millennials,Male,41.14,-104.79,685,good
+1928,1928,499532,baby boomer,Male,45.79,-122.69,750,very good
+1356,1356,343639,silent generation,Male,44.99,-91.72,733,good
+78,78,196995,millennials,Male,33.95,-118.29,688,good
+1880,1880,435440,baby boomer,Male,43.06,-87.96,771,very good
+472,472,592698,gen X,Male,42.34,-88.11,672,good
+1511,1511,433902,gen X,Male,43.07,-89.38,719,good
+256,256,437141,silent generation,Male,35.82,-78.31,714,good
+462,462,564424,baby boomer,Female,40.62,-75.36,767,very good
+274,274,431205,gen X,Female,38.89,-77.03,799,very good
+1855,1855,439743,baby boomer,Male,37.3,-121.8,728,good
+1818,1818,917543,silent generation,Female,36.73,-76.04,500,poor
+1542,1542,183207,gen X,Female,41.47,-81.67,731,good
+1070,1070,399821,baby boomer,Male,42.03,-91.58,745,very good
+14,14,233801,silent generation,Female,21.39,-158.01,652,fair
+1118,1118,618655,millennials,Female,34.06,-118.35,714,good
+418,,,millennials,Male,33.56,-112.57,693,good
+786,,,gen Z,Male,34.9,-79.01,798,very good
+907,,,millennials,Male,44.94,-93.1,686,good
+1665,,,gen Z,Male,33.94,-84.2,665,fair
+1838,,,gen Z,Female,35.05,-78.87,695,good
+396,,,silent generation,Female,42.07,-87.81,735,good
+272,,,millennials,Female,39.79,-75.14,767,very good
+1607,,,gen Z,Male,32.91,-96.62,689,good
+1157,,,millennials,Female,32.98,-96.89,812,excellent
+1505,,,millennials,Male,38.04,-97.34,685,good
+136,,,gen Z,Female,38.22,-85.74,695,good
+736,,,millennials,Female,39.99,-105.09,741,very good
+372,,,millennials,Male,41.66,-83.58,756,very good
+1056,,,gen Z,Female,34.28,-119.22,703,good
+894,,,gen X,Female,43.3,-71.33,597,fair
+1969,1969,856884,silent generation,Male,27.48,-82.57,733,good
+265,265,292122,gen X,Female,27.8,-97.39,713,good
+442,442,674103,gen X,Male,38.33,-90.4,791,very good
+589,589,129160,baby boomer,Male,40.55,-81.91,595,fair
+1518,1518,329822,baby boomer,Male,34.47,-86.8,745,very good
+921,921,955720,silent generation,Male,42.98,-77.67,779,very good
+1909,1909,455976,baby boomer,Male,34.02,-118.28,696,good
+408,408,1079354,baby boomer,Female,45.4,-91.84,741,very good
+171,171,848223,gen X,Female,34.83,-82.37,694,good
+1720,1720,631247,baby boomer,Female,32.75,-97.33,590,fair
+1791,1791,270816,baby boomer,Male,39.77,-86.14,593,fair
+1666,1666,332006,baby boomer,Male,32.29,-81.23,578,poor
+1009,1009,173195,gen X,Female,36.01,-82.15,702,good
+1335,1335,553707,gen X,Female,33.56,-117.63,836,excellent
+867,,,millennials,Male,31.07,-97.61,614,fair
+1306,,,gen X,Female,33.82,-117.91,706,good
+745,,,gen Z,Male,34.06,-117.17,752,very good
+1795,,,millennials,Female,45.25,-93.33,647,fair
+1850,,,gen Z,Female,31.94,-94.85,736,good
+620,,,millennials,Male,37.8,-89.03,588,fair
+422,,,gen Z,Female,39.98,-82.98,817,excellent
+423,,,millennials,Female,33.62,-112.05,696,good
+1612,,,baby boomer,Male,41.83,-87.68,562,poor
+318,,,baby boomer,Male,34.5,-118.01,724,good
+1911,,,baby boomer,Female,37.08,-94.5,768,very good
+1304,,,gen Z,Female,40.99,-74.34,850,excellent
+25,,,gen Z,Female,33.36,-111.93,630,fair
+1472,,,gen X,Male,35.05,-78.87,694,good
+1278,,,gen Z,Male,39.98,-82.98,684,good
+1336,,,gen Z,Female,40.66,-73.84,673,good
+645,,,baby boomer,Female,33.91,-118.23,750,very good
+1950,,,millennials,Female,36.69,-84.47,720,good
+1647,,,gen Z,Female,41.31,-79.38,684,good
+847,847,665931,silent generation,Female,35.78,-95.24,591,fair
+1397,1397,334651,millennials,Male,36.88,-94.87,710,good
+1430,1430,437784,baby boomer,Female,41.63,-93.74,593,fair
+135,135,739088,baby boomer,Female,39.72,-82.59,691,good
+876,876,351100,baby boomer,Male,37.68,-97.34,600,fair
+419,419,351668,baby boomer,Male,38.14,-120.45,734,good
+1227,1227,416862,baby boomer,Female,42.37,-83.46,804,excellent
+199,199,427383,baby boomer,Female,33.1,-96.66,720,good
+1412,1412,763336,baby boomer,Female,36.97,-86.44,707,good
+663,663,630463,baby boomer,Female,35.92,-86.84,655,fair
+1498,1498,579605,gen X,Female,39.68,-74.98,726,good
+119,119,381420,gen X,Female,36.16,-115.28,624,fair
+1740,1740,95809,millennials,Male,42.86,-88.33,735,good
+619,619,350017,gen X,Male,44.01,-92.47,748,very good
+1610,1610,294769,gen X,Female,32.32,-90.2,690,good
+1560,1560,265423,baby boomer,Female,42.61,-94.14,741,very good
+1646,1646,230136,gen X,Male,40.33,-79.83,714,good
+451,451,315016,baby boomer,Male,41.26,-96.01,711,good
+732,732,260068,baby boomer,Male,37.68,-97.34,756,very good
+1931,1931,1009906,baby boomer,Male,42.41,-71.16,503,poor
+237,237,331796,gen X,Male,37.96,-121.76,563,poor
+1832,,,millennials,Male,40.71,-124.11,684,good
+560,,,baby boomer,Male,44.96,-93.26,676,good
+1653,,,gen X,Male,41.85,-72.65,681,good
+365,,,baby boomer,Female,40.64,-73.94,719,good
+463,,,millennials,Female,40.71,-73.99,719,good
+635,,,millennials,Female,40.76,-74.03,731,good
+1359,,,millennials,Female,36.67,-76.3,691,good
+1978,,,gen Z,Female,32.76,-94.34,844,excellent
+1580,,,gen Z,Female,41.6,-87.05,621,fair
+1641,,,millennials,Male,39.09,-84.51,640,fair
+1043,,,gen Z,Female,42.37,-71.11,660,fair
+632,,,gen Z,Female,40.12,-102.72,703,good
+1441,,,gen X,Male,43.07,-89.38,737,good
+1437,1437,364413,silent generation,Female,47.43,-122.92,751,very good
+254,254,1012276,millennials,Male,40.02,-105.25,734,good
+721,721,254640,millennials,Male,25.77,-80.2,850,excellent
+461,461,775549,gen X,Female,42.3,-83.48,784,very good
+242,242,417641,gen X,Male,42.19,-73.35,850,excellent
+1194,1194,491196,gen X,Male,35.06,-85.25,782,very good
+1262,1262,188132,baby boomer,Female,41.01,-121.47,717,good
+1899,1899,209164,millennials,Female,47.94,-122.0,737,good
+669,669,345449,millennials,Female,44.69,-73.45,683,good
+4,4,595840,gen X,Female,47.61,-122.3,716,good
+1078,1078,660280,baby boomer,Female,40.6,-88.98,589,fair
+1515,1515,424004,silent generation,Female,40.34,-76.42,520,poor
+931,931,396797,millennials,Male,35.1,-90.0,540,poor
+1649,1649,81004,baby boomer,Male,29.79,-95.82,729,good
+1263,1263,320113,baby boomer,Female,33.95,-84.54,600,fair
+1370,1370,590518,baby boomer,Female,38.44,-121.3,709,good
+1390,,,millennials,Male,36.17,-86.78,850,excellent
+813,,,gen X,Male,41.99,-71.5,585,fair
+325,,,gen X,Male,35.22,-92.38,709,good
+1309,,,silent generation,Female,47.61,-122.3,531,poor
+1565,,,millennials,Female,39.09,-84.51,584,fair
+717,,,gen Z,Female,28.04,-81.96,659,fair
+1932,,,millennials,Female,32.59,-116.58,658,fair
+1005,,,gen Z,Male,29.76,-95.38,685,good
+281,,,gen Z,Male,41.15,-81.24,684,good
+1093,,,gen Z,Male,40.64,-73.94,667,fair
+622,,,gen Z,Male,38.85,-77.29,738,good
+76,,,gen Z,Female,40.23,-83.37,649,fair
+1604,1604,406980,baby boomer,Male,34.31,-89.93,742,very good
+763,763,1032620,millennials,Male,39.99,-75.27,642,fair
+1817,1817,1037426,gen X,Female,29.55,-95.27,683,good
+667,667,578097,silent generation,Male,35.98,-78.91,714,good
+236,236,639134,millennials,Female,29.7,-95.46,540,poor
+519,519,232816,baby boomer,Female,36.14,-115.03,770,very good
+1294,1294,649112,millennials,Female,40.69,-74.26,730,good
+773,773,337624,baby boomer,Male,34.49,-85.84,786,very good
+738,738,757357,baby boomer,Female,40.02,-105.25,707,good
+1352,1352,233396,baby boomer,Female,44.75,-85.6,672,good
+1,1,336197,gen X,Female,30.44,-87.18,704,good
+657,657,234635,silent generation,Female,44.45,-95.78,705,good
+1130,1130,725638,gen X,Female,47.3,-122.31,680,good
+1973,1973,294603,baby boomer,Female,34.87,-85.5,731,good
+678,678,162007,baby boomer,Female,42.88,-78.85,850,excellent
+1268,1268,176400,gen X,Male,34.2,-86.15,513,poor
+1204,1204,385283,gen X,Male,42.09,-70.7,743,very good
+1180,1180,540174,millennials,Male,40.71,-73.99,595,fair
+485,,,millennials,Male,35.48,-120.92,665,fair
+1346,,,gen X,Female,36.81,-119.75,655,fair
+512,,,gen X,Male,33.73,-112.14,718,good
+767,,,millennials,Female,43.28,-72.47,686,good
+1792,,,gen Z,Female,44.02,-72.23,723,good
+337,,,gen Z,Male,41.69,-71.51,850,excellent
+1624,,,gen Z,Male,40.07,-80.89,769,very good
+1929,,,millennials,Male,37.72,-122.41,717,good
+392,,,gen X,Female,27.64,-80.39,775,very good
+214,,,millennials,Male,41.83,-87.68,652,fair
+516,,,millennials,Male,32.61,-117.03,697,good
+1318,,,gen Z,Female,35.55,-117.67,778,very good
+1724,,,gen Z,Female,41.71,-86.87,850,excellent
+739,,,millennials,Female,29.76,-95.38,622,fair
+428,428,538373,millennials,Male,42.99,-71.45,689,good
+1769,1769,442361,silent generation,Male,39.69,-74.25,661,fair
+629,629,732987,baby boomer,Male,39.27,-76.83,793,very good
+840,840,1956363,baby boomer,Female,37.74,-122.44,694,good
+1985,1985,225839,gen X,Female,34.06,-84.27,680,good
+987,987,1036341,gen X,Male,39.14,-77.21,683,good
+1315,1315,253265,baby boomer,Female,38.61,-88.78,753,very good
+762,762,414623,gen X,Male,40.63,-82.96,683,good
+383,383,223229,gen X,Male,30.81,-92.65,760,very good
+1317,1317,175317,gen X,Female,39.39,-74.51,749,very good
+386,386,701000,gen X,Male,42.26,-71.8,655,fair
+845,845,468241,baby boomer,Male,30.42,-86.61,786,very good
+728,728,241591,millennials,Female,39.08,-94.35,721,good
+1613,1613,546724,millennials,Male,44.44,-69.83,792,very good
+1989,1989,1251606,millennials,Male,38.81,-76.75,803,excellent
+1444,1444,943258,baby boomer,Male,40.63,-73.63,698,good
+865,865,750486,gen X,Male,38.06,-78.9,693,good
+323,323,339463,gen X,Male,36.6,-119.75,683,good
+348,348,256139,gen X,Female,40.22,-74.76,719,good
+888,888,268248,gen X,Male,34.86,-92.12,698,good
+808,808,773107,millennials,Female,40.78,-73.24,683,good
+850,850,239885,millennials,Female,37.98,-85.71,712,good
+1469,,,gen Z,Male,39.12,-97.7,759,very good
+1271,,,millennials,Male,36.11,-80.07,642,fair
+1847,,,gen Z,Female,28.18,-82.74,676,good
+1890,,,millennials,Male,41.18,-77.31,754,very good
+405,,,millennials,Male,33.42,-112.2,627,fair
+1970,,,gen Z,Male,42.32,-72.67,731,good
+1418,,,millennials,Female,44.13,-89.52,752,very good
+1338,,,millennials,Male,42.58,-87.85,765,very good
+507,,,gen Z,Male,40.81,-74.0,695,good
+72,,,millennials,Male,46.51,-112.12,580,fair
+1178,,,baby boomer,Female,30.56,-97.86,693,good
+1355,,,gen X,Male,32.35,-86.28,536,poor
+190,190,1040215,gen X,Male,42.03,-87.73,711,good
+1759,1759,560709,silent generation,Female,33.27,-117.28,778,very good
+530,530,248161,silent generation,Male,34.06,-117.39,682,good
+636,636,165070,gen X,Female,41.83,-87.68,793,very good
+1940,1940,215137,gen X,Female,40.74,-73.85,826,excellent
+1728,1728,316076,gen X,Female,44.35,-89.07,601,fair
+374,374,290921,baby boomer,Male,38.47,-121.44,689,good
+996,996,661627,baby boomer,Female,26.02,-80.16,738,good
+1127,1127,575483,baby boomer,Male,26.14,-81.79,720,good
+520,520,363466,gen X,Male,40.26,-75.74,766,very good
+375,375,262999,gen X,Female,35.7,-81.21,695,good
+1069,1069,402676,gen X,Male,35.3,-81.03,615,fair
+628,628,424089,baby boomer,Male,40.0,-75.26,815,excellent
+1141,1141,309410,baby boomer,Male,36.48,-80.61,777,very good
+1283,1283,594008,gen X,Male,45.64,-122.37,591,fair
+182,,,gen X,Female,26.14,-81.79,616,fair
+1252,,,gen Z,Female,33.86,-118.33,658,fair
+1935,,,gen Z,Female,30.21,-92.02,750,very good
+536,,,gen Z,Male,42.93,-74.62,789,very good
+1707,,,millennials,Female,46.12,-123.67,620,fair
+553,,,baby boomer,Male,37.78,-90.42,628,fair
+1365,,,gen Z,Male,38.23,-122.56,751,very good
+1790,,,gen Z,Male,41.24,-73.31,660,fair
+1122,,,millennials,Female,40.84,-73.28,785,very good
+1460,,,gen Z,Female,42.52,-87.88,590,fair
+1778,,,millennials,Male,35.49,-119.3,659,fair
+226,,,millennials,Male,42.62,-70.86,724,good
+535,,,gen X,Female,41.53,-72.79,643,fair
+718,,,gen X,Male,41.64,-85.41,655,fair
+1023,,,gen X,Female,35.25,-81.17,679,good
+1270,,,millennials,Female,40.21,-75.27,685,good
+1540,1540,817239,baby boomer,Female,39.33,-84.54,625,fair
+1052,1052,874402,baby boomer,Male,37.99,-122.27,655,fair
+1153,1153,83848,baby boomer,Male,39.69,-104.81,774,very good
+285,285,1615546,baby boomer,Male,36.95,-121.72,731,good
+605,605,369280,gen X,Male,40.64,-73.94,725,good
+468,468,325525,gen X,Female,41.65,-91.53,714,good
+1782,1782,247649,baby boomer,Female,33.74,-117.99,777,very good
+1217,1217,497904,baby boomer,Female,33.62,-112.0,785,very good
+561,561,315835,gen X,Male,40.8,-91.12,834,excellent
+961,961,587012,silent generation,Male,28.2,-82.59,721,good
+3,3,280800,gen X,Male,33.89,-98.51,681,good
+585,585,449412,gen X,Male,30.11,-97.3,584,fair
+483,483,248594,gen X,Female,48.53,-122.31,713,good
+27,27,413883,silent generation,Female,32.28,-90.0,613,fair
+1413,1413,344596,millennials,Female,39.03,-87.05,685,good
+1994,1994,430132,gen X,Female,39.38,-119.87,740,very good
+1584,1584,222464,millennials,Male,32.69,-97.01,692,good
+91,,,millennials,Female,39.73,-75.53,739,good
+544,,,millennials,Female,40.86,-73.63,676,good
+1599,,,gen Z,Male,31.84,-106.43,790,very good
+97,,,baby boomer,Female,35.97,-83.94,765,very good
+1841,,,millennials,Female,29.98,-81.67,730,good
+1476,,,millennials,Female,40.71,-74.06,716,good
+448,,,gen X,Male,41.48,-87.68,698,good
+941,,,baby boomer,Female,43.34,-73.67,713,good
+1389,,,gen X,Female,33.83,-86.26,793,very good
+627,,,gen X,Male,41.83,-73.12,717,good
+555,,,millennials,Male,38.03,-85.34,514,poor
+1729,,,millennials,Female,40.3,-112.3,698,good
+1927,,,millennials,Male,41.07,-85.13,739,good
+1212,,,millennials,Male,34.98,-80.54,810,excellent
+1690,,,gen Z,Female,32.93,-94.7,630,fair
+1840,1840,330362,gen X,Female,45.49,-122.8,706,good
+115,115,698437,baby boomer,Male,40.93,-73.72,748,very good
+1190,1190,796203,gen X,Female,33.0,-80.17,707,good
+1936,1936,468829,silent generation,Female,44.4,-73.0,714,good
+1455,1455,217343,millennials,Male,32.72,-117.09,713,good
+1781,1781,188095,millennials,Male,42.93,-75.46,708,good
+556,556,380665,gen X,Male,41.01,-81.6,715,good
+573,573,268802,gen X,Male,33.79,-82.47,589,fair
+359,359,434162,baby boomer,Male,33.94,-83.99,799,very good
+1385,1385,994351,gen X,Female,44.96,-93.26,789,very good
+879,879,317434,gen X,Male,25.92,-97.48,702,good
+1123,1123,166372,gen X,Male,34.8,-79.54,710,good
+1842,1842,550419,gen X,Male,35.11,-106.62,637,fair
+581,581,262308,gen X,Male,29.99,-90.24,684,good
+1987,1987,220531,baby boomer,Male,42.13,-87.92,488,poor
+138,138,307593,gen X,Female,40.77,-79.04,641,fair
+77,77,1009397,greatest generation,Female,40.24,-76.92,709,good
+476,476,626472,baby boomer,Male,40.93,-76.25,724,good
+1586,1586,606864,gen X,Male,40.66,-73.7,672,good
+671,671,316257,millennials,Female,35.93,-89.92,769,very good
+1794,1794,495390,gen X,Male,29.45,-98.5,631,fair
+661,661,95200,baby boomer,Male,40.68,-75.22,566,poor
+160,160,185226,gen X,Male,38.91,-75.43,796,very good
+1215,,,gen X,Female,32.84,-116.88,751,very good
+1375,,,gen Z,Female,38.64,-76.9,717,good
+1814,,,gen X,Female,41.83,-87.68,703,good
+1751,,,millennials,Female,38.78,-90.7,736,good
+1119,,,gen Z,Female,38.83,-76.92,763,very good
+435,,,baby boomer,Female,37.06,-113.57,679,good
+769,,,gen X,Female,36.2,-81.66,644,fair
+221,,,baby boomer,Female,37.7,-122.12,850,excellent
+1886,,,millennials,Male,47.44,-122.28,683,good
+292,,,gen Z,Female,32.79,-116.96,717,good
+1479,1479,198133,millennials,Male,33.72,-84.42,805,excellent
+940,940,372878,gen X,Female,25.77,-80.2,699,good
+571,571,492047,gen X,Male,39.46,-77.96,739,good
+613,613,390258,millennials,Female,41.87,-88.01,712,good
+1207,1207,808547,gen X,Male,41.47,-81.67,664,fair
+230,230,259517,millennials,Female,30.44,-91.12,693,good
+1208,1208,309177,millennials,Male,40.59,-77.57,526,poor
+1528,1528,1211454,silent generation,Female,32.61,-93.28,695,good
+1267,1267,376716,silent generation,Female,47.83,-122.32,630,fair
+746,746,424611,baby boomer,Male,40.64,-73.94,689,good
+1955,1955,469762,silent generation,Female,35.54,-82.84,674,good
+1066,1066,1402297,gen X,Female,40.27,-75.26,727,good
+882,882,261338,baby boomer,Male,40.39,-82.47,612,fair
+120,120,393745,gen X,Female,42.88,-88.0,781,very good
+1448,1448,665372,gen X,Female,35.05,-82.09,850,excellent
+1488,1488,314809,millennials,Female,41.65,-81.43,695,good
+1919,1919,597715,silent generation,Male,40.95,-72.19,610,fair
+852,852,579950,millennials,Female,29.82,-82.59,738,good
+469,469,458625,baby boomer,Female,33.88,-117.85,682,good
+631,631,310738,silent generation,Female,35.46,-97.51,682,good
+665,665,443117,silent generation,Female,41.23,-80.81,790,very good
+1345,1345,504117,silent generation,Female,30.21,-90.92,804,excellent
+1303,1303,321722,baby boomer,Male,41.31,-81.85,684,good
+1763,1763,316814,gen X,Male,44.96,-93.26,717,good
+1756,1756,497531,millennials,Male,35.98,-78.91,691,good
+1087,1087,212581,gen X,Female,37.53,-84.66,722,good
+286,286,193929,millennials,Male,31.15,-88.55,725,good
+315,315,165493,gen X,Male,40.78,-81.52,692,good
+1860,,,millennials,Female,34.48,-87.28,719,good
+1120,,,gen X,Female,33.72,-118.0,737,good
+1780,,,gen X,Male,36.62,-121.82,666,fair
+533,,,gen Z,Male,32.71,-102.65,677,good
+1912,,,millennials,Female,44.96,-93.26,684,good
+1884,,,gen Z,Male,39.98,-82.98,850,excellent
+599,,,millennials,Male,40.36,-75.09,722,good
+1165,,,baby boomer,Female,36.37,-84.12,797,very good
+892,,,millennials,Female,40.43,-75.34,656,fair
+694,,,millennials,Male,61.2,-149.82,615,fair
+1128,1128,262808,gen X,Male,44.53,-72.0,680,good
+89,89,405723,millennials,Male,32.27,-106.61,705,good
+478,478,445518,gen X,Male,34.05,-84.07,803,excellent
+1995,1995,416626,baby boomer,Female,39.92,-77.71,605,fair
+371,371,1345102,silent generation,Male,37.55,-77.46,719,good
+205,205,335108,millennials,Male,47.65,-111.38,809,excellent
+1581,1581,351927,millennials,Female,38.42,-90.36,684,good
+141,141,375655,baby boomer,Male,31.02,-96.48,638,fair
+1699,1699,798086,baby boomer,Female,37.42,-121.94,737,good
+50,50,258817,baby boomer,Female,45.82,-88.06,702,good
+1811,1811,1158549,silent generation,Male,37.34,-122.11,764,very good
+1945,1945,178725,baby boomer,Female,34.72,-92.35,727,good
+1326,1326,503679,gen X,Female,40.49,-74.48,731,good
+438,438,173937,millennials,Female,40.72,-74.17,633,fair
+334,334,231362,gen X,Male,41.16,-82.22,697,good
+1882,1882,390734,baby boomer,Male,37.59,-122.06,694,good
+1981,1981,262671,gen X,Male,26.63,-81.99,702,good
+780,780,213178,silent generation,Male,42.35,-71.22,652,fair
+863,863,165305,baby boomer,Female,35.4,-93.11,774,very good
+1734,,,millennials,Male,33.95,-84.54,739,good
+1033,,,gen Z,Female,43.07,-82.49,684,good
+1706,,,gen Z,Female,34.83,-89.17,805,excellent
+1297,,,baby boomer,Male,34.99,-92.63,703,good
+1462,,,millennials,Female,44.1,-122.8,586,fair
+1739,,,gen X,Male,42.01,-95.34,531,poor
+1174,,,millennials,Male,30.6,-87.34,772,very good
+475,,,gen Z,Male,41.02,-84.04,727,good
+191,,,millennials,Male,33.71,-84.53,728,good
+653,,,gen Z,Female,41.64,-71.0,745,very good
+390,,,millennials,Male,26.14,-80.13,681,good
+1292,,,gen Z,Male,35.7,-89.99,774,very good
+1311,,,millennials,Male,47.54,-122.58,729,good
+1154,,,baby boomer,Male,43.01,-88.23,788,very good
+1620,,,gen Z,Male,32.33,-96.62,701,good
+1704,,,millennials,Male,39.95,-86.02,716,good
+809,,,gen X,Female,41.76,-88.15,618,fair
+92,92,349160,silent generation,Female,43.54,-96.73,689,good
+345,345,250840,millennials,Male,42.24,-85.48,724,good
+1742,1742,361043,baby boomer,Female,40.05,-86.03,751,very good
+416,416,219719,silent generation,Female,36.17,-86.78,765,very good
+331,331,234124,millennials,Male,33.44,-79.56,732,good
+491,491,140581,gen X,Male,34.83,-82.37,651,fair
+1557,1557,216343,gen X,Female,45.45,-122.79,707,good
+479,479,424124,baby boomer,Male,39.11,-76.55,692,good
+550,550,635579,silent generation,Male,47.54,-122.58,763,very good
+1053,1053,842201,baby boomer,Male,28.65,-81.18,636,fair
+1921,1921,338616,gen X,Male,34.12,-83.22,709,good
+823,823,297981,gen X,Female,36.7,-76.63,807,excellent
+586,586,262194,millennials,Male,35.57,-82.54,751,very good
+709,709,246179,millennials,Female,42.92,-88.84,742,very good
+298,,,millennials,Male,40.79,-77.85,686,good
+268,,,gen Z,Female,43.02,-78.75,582,fair
+715,,,millennials,Female,41.76,-88.15,821,excellent
+958,,,gen Z,Female,32.38,-83.35,705,good
+88,,,gen Z,Male,35.46,-86.08,712,good
+1401,,,gen Z,Male,36.81,-119.75,739,good
+1713,,,gen Z,Female,39.1,-94.62,837,excellent
+1914,,,gen Z,Female,36.78,-76.08,672,good
+269,,,gen Z,Female,39.65,-82.74,689,good
+842,,,baby boomer,Male,47.58,-122.03,564,poor
+1062,,,baby boomer,Male,41.57,-75.25,708,good
+1339,,,millennials,Male,38.01,-121.38,773,very good
+1920,1920,820464,baby boomer,Male,46.04,-95.29,713,good
+1575,1575,1426459,gen X,Female,27.19,-82.49,724,good
+1176,1176,677451,millennials,Male,37.94,-87.4,527,poor
+373,373,406347,baby boomer,Male,40.59,-84.95,812,excellent
+1323,1323,512274,millennials,Female,32.34,-108.7,719,good
+107,107,172966,gen X,Male,34.29,-94.33,734,good
+597,597,632714,baby boomer,Male,37.74,-122.44,736,good
+1138,1138,615213,gen X,Female,33.68,-86.39,768,very good
+1341,1341,511596,silent generation,Male,41.15,-85.48,686,good
+20,20,280826,silent generation,Female,32.42,-97.1,757,very good
+200,200,353378,baby boomer,Female,38.21,-82.56,701,good
+170,170,388053,millennials,Male,35.01,-97.37,768,very good
+755,755,186382,silent generation,Female,33.82,-78.67,642,fair
+1980,1980,268124,gen X,Male,29.37,-95.45,612,fair
+1284,1284,477521,gen X,Female,41.76,-70.08,765,very good
+1213,1213,251222,millennials,Male,38.62,-122.61,795,very good
+1578,,,silent generation,Male,30.33,-81.65,714,good
+454,,,silent generation,Female,46.87,-96.81,751,very good
+770,,,millennials,Male,33.04,-96.74,706,good
+1308,,,millennials,Female,47.36,-122.1,619,fair
+1139,,,gen Z,Female,32.88,-84.67,645,fair
+1632,,,gen Z,Female,46.87,-96.81,660,fair
+968,,,gen Z,Female,42.88,-78.85,722,good
+1011,,,millennials,Female,27.75,-82.64,676,good
+1435,1435,758631,gen X,Female,34.06,-84.27,703,good
+250,250,460399,gen X,Female,44.52,-122.81,786,very good
+1193,1193,443610,silent generation,Female,41.69,-73.92,717,good
+584,584,225756,baby boomer,Male,38.66,-121.37,743,very good
+1104,1104,694126,silent generation,Male,26.23,-80.13,850,excellent
+576,576,469331,baby boomer,Female,33.95,-84.54,638,fair
+609,609,258761,baby boomer,Male,32.91,-96.62,717,good
+1236,1236,247429,baby boomer,Female,38.86,-104.76,730,good
+1972,1972,171257,baby boomer,Female,41.47,-81.67,772,very good
+1477,1477,295539,gen X,Male,40.15,-82.68,696,good
+1473,1473,241992,gen X,Female,37.04,-93.29,850,excellent
+346,346,472082,silent generation,Female,34.43,-119.68,687,good
+212,212,186875,gen X,Male,32.79,-96.76,797,very good
+794,794,116369,gen X,Female,33.94,-118.2,730,good
+1851,1851,518890,gen X,Male,35.83,-78.83,727,good
+1891,1891,331764,gen X,Female,29.19,-81.05,725,good
+972,972,491390,millennials,Male,31.84,-106.43,681,good
+942,942,644376,millennials,Male,30.3,-90.97,742,very good
+869,869,248120,baby boomer,Male,33.85,-84.22,745,very good
+32,32,317850,silent generation,Female,40.31,-79.54,695,good
+1731,1731,222074,baby boomer,Female,34.14,-117.45,704,good
+322,322,120853,gen X,Male,31.22,-84.21,829,excellent
+1189,1189,280890,baby boomer,Female,42.66,-73.79,693,good
+173,173,526332,baby boomer,Female,32.45,-99.73,668,fair
+582,582,184838,gen X,Male,41.36,-85.23,583,fair
+15,,,gen X,Female,34.02,-118.31,788,very good
+1380,,,millennials,Male,33.62,-112.13,736,good
+1491,,,gen X,Female,32.25,-111.08,710,good
+1420,,,silent generation,Female,44.94,-93.1,688,good
+129,,,baby boomer,Female,34.1,-118.05,510,poor
+290,,,millennials,Female,42.4,-83.6,687,good
+43,,,millennials,Female,33.99,-118.39,721,good
+558,,,gen Z,Male,27.97,-82.76,692,good
+1092,,,gen X,Male,41.01,-75.99,720,good
+271,,,millennials,Female,45.65,-122.66,685,good
+215,,,gen Z,Male,35.57,-82.54,716,good
+109,,,millennials,Female,45.6,-108.68,737,good
+1703,1703,738514,gen X,Female,39.08,-108.55,747,very good
+1145,1145,873643,gen X,Female,44.26,-88.39,747,very good
+1963,1963,1254021,greatest generation,Male,38.35,-121.93,821,excellent
+1809,1809,668287,gen X,Female,38.81,-77.72,664,fair
+659,659,436630,baby boomer,Male,38.73,-86.47,812,excellent
+1222,1222,411469,gen X,Female,42.39,-113.78,600,fair
+34,34,766699,gen X,Male,38.48,-121.34,737,good
+822,822,246207,gen X,Female,32.61,-117.03,793,very good
+329,329,592739,baby boomer,Male,34.39,-119.51,701,good
+363,363,483854,gen X,Female,27.9,-82.78,701,good
+1422,1422,354831,baby boomer,Female,35.51,-78.73,767,very good
+1757,1757,264449,millennials,Male,40.19,-85.39,784,very good
+595,595,247903,silent generation,Male,36.5,-78.55,699,good
+754,754,702867,silent generation,Female,33.69,-78.89,705,good
+1281,1281,144270,silent generation,Female,34.1,-117.38,689,good
+147,147,351912,millennials,Male,32.35,-86.28,800,excellent
+1416,1416,644327,baby boomer,Female,43.03,-76.3,709,good
+1089,1089,398055,millennials,Female,38.22,-85.74,729,good
+1486,1486,145874,millennials,Female,36.48,-81.05,789,very good
+587,,,gen Z,Male,40.64,-73.94,643,fair
+1715,,,millennials,Female,42.27,-89.06,679,good
+1235,,,gen Z,Male,33.6,-117.66,813,excellent
+1745,,,gen Z,Female,33.94,-83.99,728,good
+71,,,millennials,Male,43.44,-93.21,701,good
+1961,,,gen Z,Male,35.59,-77.37,657,fair
+896,,,millennials,Female,38.04,-84.45,626,fair
+353,,,gen Z,Female,33.83,-117.2,721,good
+1158,,,baby boomer,Male,35.78,-78.11,716,good
+1883,,,silent generation,Male,38.49,-121.53,723,good
+333,,,gen Z,Female,39.45,-74.72,706,good
+105,,,gen X,Male,41.47,-75.57,742,very good
+1957,1957,279807,gen X,Male,34.15,-118.6,772,very good
+538,538,361190,baby boomer,Female,35.3,-77.15,814,excellent
+891,891,398643,millennials,Female,35.44,-94.35,746,very good
+1579,1579,310163,silent generation,Female,27.95,-82.48,728,good
+1192,1192,158611,gen X,Female,44.22,-93.44,768,very good
+895,895,335604,gen X,Female,34.23,-116.86,832,excellent
+433,433,419146,gen X,Male,39.38,-89.07,771,very good
+1561,1561,502777,silent generation,Female,35.0,-80.94,759,very good
+714,714,282845,baby boomer,Female,45.34,-122.66,760,very good
+1808,1808,264976,millennials,Female,32.02,-102.1,697,good
+737,737,650254,baby boomer,Female,42.33,-122.79,758,very good
+752,752,454740,baby boomer,Female,40.82,-72.98,664,fair
+1072,1072,456405,gen X,Female,38.71,-92.08,648,fair
+583,583,219367,baby boomer,Male,41.76,-88.29,636,fair
+1256,1256,621989,millennials,Male,41.2,-73.13,728,good
+1054,1054,275100,gen X,Male,45.47,-122.37,639,fair
+906,906,351617,silent generation,Male,40.57,-112.33,705,good
+1638,1638,544848,silent generation,Female,44.67,-93.24,668,fair
+1988,1988,1323101,baby boomer,Male,25.77,-80.2,737,good
+432,432,469306,baby boomer,Female,36.08,-81.92,686,good
+1863,1863,586634,gen X,Female,42.29,-85.22,850,excellent
+1538,1538,457434,silent generation,Male,40.71,-73.99,590,fair
+839,839,344177,gen X,Female,41.63,-73.21,622,fair
+1787,1787,715348,gen X,Female,38.04,-84.45,689,good
+220,220,338970,millennials,Female,38.1,-122.63,722,good
+1602,1602,198414,gen X,Female,40.38,-77.88,717,good
+1162,,,gen Z,Female,35.46,-97.51,705,good
+1132,,,gen Z,Female,28.4,-80.6,694,good
+1395,,,baby boomer,Male,40.98,-74.11,604,fair
+482,,,gen X,Male,42.39,-122.93,714,good
+788,,,gen Z,Female,40.71,-73.99,802,excellent
+1447,,,millennials,Male,47.49,-122.1,610,fair
+1974,,,silent generation,Female,39.99,-111.81,647,fair
+664,,,gen Z,Female,40.86,-76.78,697,good
+279,,,gen Z,Female,27.95,-82.48,753,very good
+426,,,millennials,Female,42.9,-85.82,754,very good
+1014,,,gen X,Female,33.6,-117.82,729,good
+971,,,gen Z,Female,33.37,-84.78,732,good
+998,,,gen Z,Male,34.08,-117.46,703,good
+975,,,millennials,Female,42.88,-78.85,675,good
+624,,,millennials,Male,42.89,-85.72,710,good
+1947,,,silent generation,Male,31.62,-82.88,765,very good
+848,848,469110,gen X,Male,38.86,-76.6,711,good
+524,524,196907,baby boomer,Male,38.37,-81.81,726,good
+719,719,467340,gen X,Female,42.27,-89.06,767,very good
+1583,1583,123108,millennials,Male,40.04,-76.3,826,excellent
+1752,1752,362084,millennials,Female,29.97,-92.12,810,excellent
+1813,1813,685222,millennials,Female,35.82,-87.01,808,excellent
+634,634,453114,gen X,Female,41.38,-81.64,683,good
+148,148,389799,baby boomer,Male,43.6,-71.74,663,fair
+621,621,253333,gen X,Male,29.19,-81.05,612,fair
+1587,1587,1121583,millennials,Male,42.18,-70.73,695,good
+1082,1082,357502,millennials,Female,37.23,-119.49,622,fair
+278,278,1021518,baby boomer,Male,29.76,-95.38,686,good
+783,783,227164,baby boomer,Male,35.31,-106.55,693,good
+178,178,362013,gen X,Female,39.01,-94.28,727,good
+990,990,238103,silent generation,Female,30.09,-90.99,737,good
+393,393,223645,gen X,Male,33.44,-94.07,765,very good
+1876,1876,211026,gen X,Male,38.05,-84.72,775,very good
+1823,1823,680862,baby boomer,Male,33.27,-111.94,743,very good
+993,,,gen X,Female,29.43,-90.3,638,fair
+1951,,,gen X,Female,39.13,-76.69,708,good
+522,,,millennials,Female,38.46,-85.95,774,very good
+960,,,millennials,Male,33.83,-117.85,750,very good
+54,,,gen Z,Female,41.66,-83.58,696,good
+466,,,baby boomer,Female,40.4,-81.35,643,fair
+510,,,millennials,Male,37.72,-122.44,777,very good
+1573,,,baby boomer,Male,29.18,-82.13,746,very good
+1414,,,baby boomer,Female,38.35,-81.63,783,very good
+1943,,,gen Z,Female,41.71,-72.83,706,good
+965,,,gen Z,Female,38.58,-121.4,713,good
+1015,,,millennials,Female,33.88,-84.37,838,excellent
+540,,,millennials,Female,42.37,-87.86,634,fair
+258,,,gen X,Male,37.27,-79.95,694,good
+1870,,,gen Z,Male,32.85,-117.2,767,very good
+377,377,694298,silent generation,Female,47.39,-122.26,750,very good
+1966,1966,474362,gen X,Male,36.05,-90.51,782,very good
+1381,1381,612714,silent generation,Male,41.69,-81.33,690,good
+938,938,528255,millennials,Female,38.97,-94.95,720,good
+1871,1871,372705,silent generation,Male,35.11,-106.62,696,good
+564,564,541851,baby boomer,Male,44.08,-70.24,765,very good
+1084,1084,511142,millennials,Male,47.26,-122.45,775,very good
+60,60,612512,gen X,Female,43.23,-77.06,655,fair
+275,275,1022794,gen X,Female,29.56,-95.02,710,good
+1018,1018,738995,silent generation,Female,29.57,-81.21,755,very good
+257,257,449698,gen X,Male,34.2,-118.39,708,good
+1777,1777,633937,gen X,Male,38.83,-77.21,741,very good
+1779,1779,336049,millennials,Male,33.46,-82.5,733,good
+1250,1250,342270,silent generation,Female,40.01,-78.36,746,very good
+1369,1369,434207,baby boomer,Female,39.35,-85.96,850,excellent
+1520,1520,795915,baby boomer,Male,37.72,-122.44,789,very good
+517,517,155085,millennials,Male,42.31,-83.21,811,excellent
+1433,1433,597843,baby boomer,Male,30.68,-88.04,581,fair
+1766,1766,169801,baby boomer,Male,43.06,-87.96,789,very good
+61,61,759947,gen X,Female,41.05,-73.74,801,excellent
+1048,1048,369810,baby boomer,Female,29.79,-95.82,779,very good
+216,216,241466,baby boomer,Female,39.92,-85.36,687,good
+1470,1470,229448,silent generation,Male,30.79,-98.43,700,good
+1775,1775,560009,millennials,Male,38.91,-75.43,788,very good
+569,569,99794,gen X,Male,34.83,-92.2,662,fair
+307,,,gen Z,Male,30.23,-92.81,680,good
+1550,,,gen Z,Male,47.85,-122.28,776,very good
+1867,,,millennials,Male,29.45,-98.5,644,fair
+784,,,gen X,Male,30.19,-90.78,688,good
+1760,,,millennials,Female,39.16,-89.48,682,good
+1059,,,gen X,Male,35.43,-82.5,644,fair
+1800,,,baby boomer,Male,37.48,-86.29,641,fair
+1845,,,millennials,Male,40.53,-89.35,784,very good
+95,,,millennials,Female,47.62,-122.16,701,good
+929,,,baby boomer,Female,40.15,-75.22,850,excellent
+532,,,millennials,Male,38.53,-90.0,775,very good
+625,,,gen Z,Female,36.33,-82.36,680,good
+1008,1008,309491,gen X,Female,41.83,-87.68,657,fair
+364,364,652650,baby boomer,Female,35.79,-83.97,775,very good
+748,748,274530,gen X,Male,29.76,-95.38,706,good
+277,277,275524,gen X,Male,33.77,-89.81,799,very good
+828,828,571474,baby boomer,Female,29.45,-98.5,659,fair
+1877,1877,962076,baby boomer,Male,32.92,-96.45,714,good
+506,506,730712,baby boomer,Male,42.71,-78.93,733,good
+1083,1083,970224,gen X,Female,38.45,-82.64,756,very good
+1403,1403,1205675,silent generation,Male,37.94,-77.65,753,very good
+1937,1937,587045,baby boomer,Female,38.78,-90.7,667,fair
+467,467,398455,millennials,Male,35.06,-85.25,705,good
+570,570,347081,millennials,Male,34.29,-83.83,625,fair
+1616,1616,701166,gen X,Male,33.0,-97.23,815,excellent
+724,724,306971,gen X,Female,35.97,-96.76,731,good
+1475,1475,545179,greatest generation,Female,21.31,-158.01,725,good
+1975,1975,282728,gen X,Female,41.55,-73.03,738,good
+260,260,158986,baby boomer,Male,26.21,-98.31,699,good
+1484,1484,579045,silent generation,Female,32.28,-110.73,726,good
+928,928,253358,baby boomer,Female,29.76,-95.38,784,very good
+700,,,gen Z,Female,40.71,-73.99,590,fair
+1650,,,gen Z,Male,40.71,-74.06,687,good
+330,,,millennials,Male,40.24,-75.28,711,good
+610,,,gen Z,Male,47.78,-117.45,713,good
+314,,,millennials,Male,39.0,-77.4,557,poor
+1233,,,millennials,Male,38.71,-90.12,697,good
+18,,,millennials,Male,39.17,-77.26,637,fair
+1984,,,millennials,Female,43.97,-88.95,528,poor
+99,,,baby boomer,Female,26.23,-80.13,753,very good
+1893,,,millennials,Male,43.1,-71.73,623,fair
+703,,,gen X,Female,30.23,-92.19,711,good
+943,,,baby boomer,Male,40.2,-74.78,773,very good
+722,,,gen Z,Male,41.01,-75.89,707,good
+84,84,423604,gen X,Male,36.49,-81.5,738,good
+1155,1155,604800,silent generation,Female,31.5,-111.06,689,good
+1559,1559,839749,baby boomer,Female,34.05,-84.67,746,very good
+1687,1687,865184,baby boomer,Female,35.11,-106.62,621,fair
+414,414,860048,gen X,Female,40.79,-74.47,709,good
+980,980,230684,silent generation,Male,39.32,-76.72,733,good
+1344,1344,485176,baby boomer,Male,42.58,-83.03,736,good
+361,361,296158,gen X,Male,33.91,-118.34,804,excellent
+1361,1361,301507,baby boomer,Male,42.38,-83.1,638,fair
+1885,1885,942134,gen X,Male,33.99,-83.72,753,very good
+474,474,890543,baby boomer,Male,40.75,-73.64,683,good
+948,948,295037,gen X,Female,26.74,-80.12,718,good
+1727,1727,737019,gen X,Female,34.0,-81.03,771,very good
+1856,1856,341583,gen X,Male,34.93,-78.72,784,very good
+19,19,54443,silent generation,Female,34.41,-119.7,630,fair
+936,,,gen Z,Female,35.15,-119.06,718,good
+168,,,gen X,Female,30.27,-87.7,646,fair
+1593,,,gen Z,Male,39.77,-84.19,753,very good
+289,,,gen Z,Female,29.76,-95.38,685,good
+1705,,,gen X,Male,35.95,-85.03,850,excellent
+966,,,millennials,Female,26.35,-98.11,630,fair
+1748,,,gen X,Female,31.21,-81.37,628,fair
+1835,,,millennials,Female,40.86,-76.78,793,very good
+93,,,millennials,Female,35.75,-87.79,686,good
+340,,,gen Z,Male,47.3,-122.37,809,excellent
+1819,,,gen Z,Female,30.58,-91.15,672,good
+243,,,gen Z,Male,41.84,-87.79,666,fair
+23,,,gen Z,Female,29.8,-98.73,645,fair
+1601,,,millennials,Female,41.31,-73.84,628,fair
+572,,,millennials,Male,29.95,-91.2,680,good
+1683,,,gen X,Male,31.84,-106.43,850,excellent
+295,,,gen X,Male,40.79,-90.16,681,good
+1197,,,millennials,Female,45.79,-122.69,722,good
+1949,,,millennials,Female,32.46,-86.44,706,good
+994,994,181010,silent generation,Female,40.09,-74.21,771,very good
+1844,1844,312645,silent generation,Male,27.8,-97.39,706,good
+1150,1150,662352,gen X,Male,32.83,-97.17,791,very good
+379,379,545199,gen X,Female,30.68,-88.04,765,very good
+1296,1296,593275,baby boomer,Female,28.7,-81.34,788,very good
+1816,1816,258547,millennials,Female,40.47,-86.13,784,very good
+1736,1736,592054,gen X,Male,40.64,-73.94,695,good
+885,885,165900,millennials,Male,36.67,-93.86,700,good
+1519,1519,320568,gen X,Female,45.6,-108.68,849,excellent
+547,547,222580,baby boomer,Male,42.62,-88.63,778,very good
+1179,1179,324976,gen X,Female,36.67,-76.3,752,very good
+1623,1623,254816,millennials,Female,39.11,-84.46,746,very good
+1826,1826,80083,gen X,Female,28.92,-81.92,654,fair
+866,866,467028,millennials,Male,40.43,-79.97,639,fair
+633,633,356260,millennials,Female,33.88,-118.27,743,very good
+1241,1241,1127314,gen X,Female,40.43,-84.38,814,excellent
+646,646,337701,millennials,Female,41.47,-81.67,786,very good
+1874,1874,362249,gen X,Male,25.77,-80.2,783,very good
+1034,1034,787882,baby boomer,Female,35.12,-80.71,698,good
+488,488,1611047,millennials,Male,27.92,-97.29,745,very good
+791,791,277743,silent generation,Female,33.98,-117.65,645,fair
+1261,1261,417076,baby boomer,Male,45.54,-122.64,527,poor
+163,,,millennials,Male,41.37,-79.7,829,excellent
+768,,,gen X,Female,40.13,-75.06,620,fair
+1806,,,baby boomer,Female,42.31,-71.64,822,excellent
+406,,,gen Z,Female,37.3,-122.0,641,fair
+187,,,millennials,Female,37.77,-79.99,830,excellent
+1325,,,gen Z,Female,37.44,-122.2,745,very good
+999,,,gen Z,Female,42.26,-71.11,703,good
+567,,,millennials,Male,35.74,-81.69,761,very good
+424,,,gen Z,Female,40.29,-79.99,772,very good
+910,,,millennials,Male,37.38,-121.9,819,excellent
+1152,,,gen X,Male,37.94,-91.76,747,very good
+1958,1958,275717,gen X,Male,35.05,-78.87,680,good
+48,48,262496,baby boomer,Male,35.11,-106.62,733,good
+898,898,194775,silent generation,Female,40.59,-75.47,566,poor
+825,825,912374,gen X,Female,34.15,-117.76,787,very good
+157,157,452675,gen X,Male,33.83,-117.2,785,very good
+154,154,625347,gen X,Male,34.93,-78.72,666,fair
+1300,1300,284133,baby boomer,Male,31.13,-93.27,752,very good
+1305,1305,357477,gen X,Female,35.33,-89.88,784,very good
+1741,1741,528524,silent generation,Male,32.21,-110.88,707,good
+98,98,751619,silent generation,Female,40.14,-87.61,590,fair
+1904,1904,405162,baby boomer,Male,35.95,-95.38,757,very good
+1944,1944,419156,baby boomer,Female,38.95,-84.54,740,very good
+1203,1203,131885,millennials,Male,43.42,-73.71,582,fair
+40,40,175941,baby boomer,Male,39.92,-83.79,726,good
+917,917,242060,baby boomer,Male,34.07,-118.14,678,good
+1202,1202,115506,baby boomer,Female,41.83,-87.68,691,good
+0,0,625839,millennials,Male,43.59,-70.33,763,very good
+1347,1347,317271,baby boomer,Female,35.73,-77.92,590,fair
+149,149,278354,gen Z,Female,33.02,-117.12,594,fair
+824,,,millennials,Female,27.75,-82.64,695,good
+1643,,,millennials,Female,45.47,-122.37,686,good
+680,,,gen X,Female,28.5,-81.37,799,very good
+574,,,gen Z,Male,38.38,-84.29,713,good
+1831,,,millennials,Female,30.33,-81.65,595,fair
+202,,,gen Z,Female,39.33,-84.4,850,excellent
+846,846,791754,gen X,Female,41.26,-96.01,745,very good
+1696,1696,1181132,baby boomer,Female,28.32,-80.68,606,fair
+1439,1439,162233,millennials,Female,36.19,-82.95,715,good
+997,997,942323,baby boomer,Female,32.64,-116.98,675,good
+1196,1196,458329,baby boomer,Female,35.24,-113.76,820,excellent
+946,946,329228,gen X,Male,40.31,-79.38,781,very good
+231,231,373335,baby boomer,Female,35.05,-78.87,769,very good
+1276,1276,465848,silent generation,Female,41.83,-87.68,730,good
+1576,1576,546396,silent generation,Female,42.66,-83.38,712,good
+114,114,942051,gen X,Female,34.18,-118.39,725,good
+989,989,1539056,silent generation,Male,38.87,-77.4,727,good
+1508,1508,188068,baby boomer,Female,39.16,-86.52,747,very good
+132,132,149653,silent generation,Female,27.48,-82.57,696,good
+831,831,328578,millennials,Male,41.29,-91.55,726,good
+1834,1834,293456,millennials,Female,33.57,-101.87,681,good
+1266,1266,262943,millennials,Female,39.51,-76.17,618,fair
+1605,1605,420335,millennials,Male,39.5,-84.37,690,good
+1669,1669,363139,gen X,Male,38.66,-121.62,698,good
+1812,1812,946116,millennials,Female,34.78,-92.25,574,poor
+1723,1723,269795,gen X,Female,39.16,-89.48,839,excellent
+73,73,521249,gen X,Male,41.71,-73.96,674,good
+983,983,363608,silent generation,Male,43.45,-76.5,827,excellent
+1131,1131,753441,silent generation,Male,38.88,-94.81,683,good
+1555,1555,113082,millennials,Female,34.01,-86.01,717,good
+1045,,,millennials,Male,33.41,-82.31,757,very good
+626,,,gen Z,Female,26.11,-80.39,746,very good
+1415,,,millennials,Male,33.15,-117.17,689,good
+8,,,gen Z,Male,27.95,-82.48,699,good
+1803,,,millennials,Female,41.66,-70.34,578,poor
+1431,,,baby boomer,Female,30.38,-89.06,599,fair
+588,,,gen Z,Male,38.47,-90.75,844,excellent
+1057,,,millennials,Female,33.2,-117.29,787,very good
+1902,1902,453347,millennials,Female,39.74,-81.51,769,very good
+370,370,261495,baby boomer,Male,34.07,-117.62,655,fair
+1910,1910,607054,gen X,Male,27.48,-82.57,562,poor
+1031,1031,413244,baby boomer,Male,39.75,-104.42,689,good
+779,779,774191,silent generation,Female,33.77,-96.67,755,very good
+1664,1664,434056,millennials,Male,42.27,-83.73,791,very good
+1634,1634,188637,baby boomer,Male,26.18,-98.11,825,excellent
+1096,1096,785252,baby boomer,Male,43.04,-76.14,681,good
+1562,1562,213413,millennials,Female,36.26,-94.69,759,very good
+1648,1648,1310142,baby boomer,Female,40.76,-74.59,621,fair
+1417,1417,459801,gen X,Female,42.63,-83.61,835,excellent
+80,80,238927,silent generation,Female,41.01,-84.47,498,poor
+1371,1371,362547,silent generation,Female,21.41,-157.79,689,good
+1976,1976,768990,millennials,Female,39.61,-76.85,699,good
+1006,1006,419846,millennials,Male,41.53,-87.26,761,very good
+118,118,311937,baby boomer,Female,33.52,-86.79,753,very good
+1449,1449,290039,baby boomer,Male,32.61,-83.63,751,very good
+1986,1986,362525,gen X,Female,37.68,-122.43,716,good
+1411,1411,628109,baby boomer,Female,41.92,-88.3,720,good
+122,122,392583,baby boomer,Female,29.69,-91.3,786,very good
+494,494,361724,millennials,Male,39.09,-76.85,779,very good
+1100,1100,827389,baby boomer,Male,40.72,-73.51,573,poor
+1314,1314,693523,gen X,Male,29.7,-98.11,723,good
+1357,1357,329402,silent generation,Female,47.2,-122.4,812,excellent
+248,248,236417,silent generation,Female,27.95,-82.48,684,good
+1394,1394,495691,millennials,Female,38.63,-90.24,558,poor
+756,756,443126,baby boomer,Female,39.64,-84.08,679,good
+233,233,442653,millennials,Female,44.96,-93.26,716,good
+513,,,gen Z,Male,30.5,-90.46,712,good
+251,,,gen Z,Male,40.7,-73.61,695,good
+429,,,gen Z,Male,35.19,-80.83,683,good
+1537,,,millennials,Female,47.69,-117.19,637,fair
+232,,,baby boomer,Female,41.58,-73.8,786,very good
+792,,,millennials,Female,38.71,-95.08,698,good
+41,,,millennials,Male,43.08,-91.56,637,fair
+1594,1594,183546,millennials,Male,27.98,-80.66,643,fair
+415,415,217435,gen X,Male,39.53,-83.43,763,very good
+704,704,1635114,gen X,Female,41.2,-73.73,840,excellent
+890,890,356083,millennials,Female,33.87,-117.89,727,good
+1453,1453,498381,millennials,Female,33.73,-87.28,641,fair
+126,126,231943,baby boomer,Male,34.72,-92.35,799,very good
+354,354,428655,silent generation,Female,38.86,-104.76,713,good
+1670,1670,387189,baby boomer,Male,33.82,-118.11,732,good
+764,764,439037,silent generation,Female,32.61,-83.63,712,good
+648,648,138435,millennials,Female,32.78,-108.26,674,good
+362,362,762808,millennials,Male,36.07,-115.21,792,very good
+459,459,314986,baby boomer,Male,33.36,-81.28,734,good
+391,391,233506,silent generation,Female,33.69,-78.89,731,good
+684,684,208219,gen X,Male,26.14,-80.13,661,fair
+854,,,millennials,Female,41.64,-88.44,688,good
+324,,,gen Z,Female,45.55,-122.73,792,very good
+66,,,gen Z,Female,41.23,-80.81,721,good
+1312,,,millennials,Female,37.3,-121.8,765,very good
+1796,,,baby boomer,Female,38.56,-86.61,794,very good
+1501,,,millennials,Male,39.98,-82.98,712,good
+1244,,,gen X,Female,35.28,-81.28,637,fair
+691,,,millennials,Female,38.39,-86.93,561,poor
+1108,,,gen Z,Male,40.83,-74.24,685,good
+774,774,282316,gen X,Male,42.41,-114.59,588,fair
+52,52,1534571,baby boomer,Female,41.56,-73.59,730,good
+1529,1529,626307,gen X,Male,26.23,-80.13,692,good
+1295,1295,720344,baby boomer,Female,46.78,-92.11,788,very good
+65,65,330243,gen X,Female,33.99,-81.08,645,fair
+1509,1509,332566,baby boomer,Female,39.38,-76.55,820,excellent
+1129,1129,708825,gen X,Male,33.18,-117.29,686,good
+24,24,359063,gen X,Female,42.27,-89.06,708,good
+577,577,340294,millennials,Female,32.07,-110.92,763,very good
+826,826,287342,baby boomer,Female,33.98,-83.88,684,good
+229,229,454379,millennials,Female,41.8,-91.49,725,good
+604,604,521061,baby boomer,Male,39.84,-75.71,736,good
+1903,1903,562979,gen X,Female,47.68,-122.38,709,good
+726,726,212834,baby boomer,Male,33.79,-118.29,717,good
+932,932,643799,baby boomer,Male,32.36,-92.97,811,excellent
+957,957,547018,baby boomer,Female,39.17,-77.26,605,fair
+1552,1552,566454,baby boomer,Male,43.65,-116.43,686,good
+1636,1636,202638,gen X,Male,39.09,-94.58,695,good
+1770,1770,281946,millennials,Male,26.61,-80.05,703,good
+1585,1585,415693,millennials,Female,30.33,-81.65,688,good
+67,,,gen Z,Female,47.22,-122.54,732,good
+31,,,gen X,Female,41.62,-87.72,712,good
+130,,,baby boomer,Female,35.19,-80.83,781,very good
+1061,,,millennials,Male,33.44,-111.8,739,good
+117,,,gen Z,Male,36.24,-90.04,595,fair
+1548,,,gen X,Male,40.5,-111.7,721,good
+590,,,millennials,Male,34.17,-86.83,724,good
+245,,,millennials,Female,26.11,-80.39,528,poor
+1588,,,gen X,Male,41.26,-96.01,689,good
+1206,,,millennials,Female,37.89,-122.03,727,good
+654,,,gen X,Female,39.14,-81.78,524,poor
+1159,,,gen Z,Male,43.05,-82.67,732,good
+223,,,millennials,Female,38.78,-121.37,803,excellent
+1657,,,millennials,Male,33.87,-118.21,655,fair
+870,870,493936,baby boomer,Female,38.64,-76.9,821,excellent
+1097,1097,284918,millennials,Male,43.95,-86.44,732,good
+708,708,1090974,baby boomer,Female,40.71,-73.99,722,good
+234,234,452673,gen X,Female,32.76,-96.59,726,good
+984,984,730507,baby boomer,Female,28.3,-81.41,850,excellent
+1170,1170,366205,millennials,Female,35.4,-80.43,694,good
+63,63,322515,gen X,Male,40.72,-74.17,660,fair
+1443,1443,627121,gen X,Male,21.44,-158.18,732,good
+729,729,354603,silent generation,Female,40.28,-86.51,850,excellent
+1712,1712,592632,silent generation,Female,32.79,-96.76,730,good
+1237,1237,659377,gen X,Female,42.37,-87.86,717,good
+1060,1060,311168,silent generation,Male,39.77,-86.14,785,very good
+261,261,655211,gen X,Male,36.0,-114.96,737,good
+1596,1596,706060,gen X,Male,34.28,-118.44,734,good
+1393,1393,416403,gen X,Female,41.25,-97.12,692,good
+1151,1151,69980,gen X,Male,40.35,-74.65,788,very good
+549,549,409935,gen X,Male,33.3,-111.74,719,good
+104,104,383531,millennials,Female,32.69,-97.01,713,good
+1425,1425,442684,silent generation,Female,35.33,-89.88,809,excellent
+844,844,157197,baby boomer,Male,32.75,-97.33,738,good
+1171,1171,504905,silent generation,Male,21.4,-157.73,781,very good
+57,57,436846,millennials,Female,32.33,-111.05,823,excellent
+197,197,512801,millennials,Male,37.86,-84.65,724,good
+508,,,gen Z,Male,39.75,-75.09,757,very good
+308,,,gen X,Male,35.37,-85.38,737,good
+1939,,,gen X,Female,33.95,-118.29,685,good
+673,,,gen X,Male,37.27,-79.88,722,good
+1232,,,gen Z,Male,42.4,-96.35,747,very good
+263,,,millennials,Male,40.09,-74.21,663,fair
+666,,,baby boomer,Male,35.85,-86.39,725,good
+1767,,,gen Z,Female,39.7,-86.38,709,good
+982,,,gen X,Male,40.49,-74.48,729,good
+1553,,,gen Z,Male,41.24,-81.45,701,good
+899,,,millennials,Female,42.24,-83.62,629,fair
+1135,1135,621909,silent generation,Female,33.84,-118.35,704,good
+528,528,282568,millennials,Male,42.78,-96.16,718,good
+1733,1733,416474,gen X,Female,36.73,-84.16,498,poor
+1535,1535,363467,baby boomer,Male,38.87,-82.99,590,fair
+797,797,354441,baby boomer,Female,21.3,-157.85,651,fair
+1024,1024,376262,baby boomer,Male,37.69,-97.13,739,good
+1676,1676,430598,gen X,Male,38.81,-94.45,681,good
+44,44,352859,silent generation,Male,43.48,-124.16,680,good
+727,727,287434,gen X,Male,38.63,-90.24,801,excellent
+1362,1362,399742,baby boomer,Male,38.78,-77.27,727,good
+1517,1517,516537,millennials,Male,38.9,-77.26,764,very good
+1719,1719,306036,silent generation,Female,25.77,-80.2,616,fair
+155,155,180293,silent generation,Female,31.31,-89.3,688,good
+1340,1340,2039753,gen X,Male,29.76,-95.38,691,good
+1103,1103,507002,gen X,Female,47.09,-116.46,746,very good
+1214,1214,568438,gen X,Male,42.06,-71.24,711,good
+90,90,535587,baby boomer,Male,28.37,-80.75,644,fair
+1219,1219,679305,millennials,Female,38.68,-76.17,688,good
+441,441,347103,gen X,Female,33.65,-84.86,635,fair
+1446,1446,202575,millennials,Male,34.02,-94.73,689,good
+1672,1672,79210,millennials,Male,41.45,-81.92,792,very good
+596,596,142320,millennials,Male,40.64,-73.94,721,good
+1218,,,gen Z,Male,33.92,-118.2,754,very good
+1038,,,millennials,Female,39.6,-82.93,810,excellent
+1828,,,gen X,Male,41.83,-87.68,711,good
+1990,,,gen Z,Female,38.77,-76.06,726,good
+1113,,,gen Z,Female,41.76,-88.29,738,good
+389,,,millennials,Male,44.53,-73.15,689,good
+1316,,,millennials,Female,40.6,-80.65,693,good
+294,,,millennials,Male,33.83,-83.89,607,fair
+702,702,823630,gen X,Female,40.84,-73.4,721,good
+1917,1917,779389,gen X,Male,40.92,-72.92,680,good
+1428,1428,112151,millennials,Female,37.67,-92.66,508,poor
+1225,1225,607764,gen X,Male,37.97,-122.5,850,excellent
+368,368,561598,silent generation,Male,28.5,-81.37,726,good
+449,449,338991,baby boomer,Female,40.56,-79.75,729,good
+688,688,442238,gen X,Male,41.31,-111.96,760,very good
+301,301,368883,gen X,Male,34.24,-84.49,679,good
+1942,1942,53145,silent generation,Female,40.71,-73.99,673,good
+1789,1789,439193,gen X,Female,38.22,-86.86,684,good
+1334,1334,222916,millennials,Female,43.0,-78.87,718,good
+546,546,419816,gen X,Male,41.68,-71.66,681,good
+496,496,240855,gen X,Male,32.76,-96.59,730,good
+350,350,623464,baby boomer,Female,39.14,-76.77,737,good
+1660,1660,195828,gen X,Female,36.73,-102.51,723,good
+1029,1029,309697,baby boomer,Male,27.9,-81.97,676,good
+1125,1125,189423,millennials,Male,30.51,-97.67,689,good
+1524,,,millennials,Male,42.19,-88.08,732,good
+1468,,,baby boomer,Male,37.1,-121.6,626,fair
+312,,,gen Z,Female,39.69,-76.06,767,very good
+806,,,gen Z,Female,40.11,-83.13,686,good
+108,,,gen X,Female,31.44,-93.45,768,very good
+1454,,,millennials,Male,33.79,-117.99,748,very good
+1436,,,gen Z,Female,41.52,-87.42,500,poor
+796,,,millennials,Female,39.42,-76.29,746,very good
+950,,,gen Z,Female,28.5,-81.37,629,fair
+537,,,gen Z,Female,38.01,-121.38,703,good
+1600,1600,559130,baby boomer,Female,47.67,-122.18,747,very good
+676,676,619328,millennials,Male,33.09,-96.88,775,very good
+1169,1169,1297265,gen X,Female,30.54,-97.64,726,good
+177,177,745305,gen X,Female,35.1,-90.0,728,good
+1725,1725,505701,gen X,Female,37.55,-77.46,729,good
+1510,1510,148914,millennials,Male,33.9,-118.0,764,very good
+282,282,192392,gen X,Male,29.45,-98.5,702,good
+218,218,288018,baby boomer,Female,40.76,-74.03,810,excellent
+952,952,800446,millennials,Male,42.31,-71.16,685,good
+878,,,gen X,Male,40.03,-76.49,615,fair
+358,,,millennials,Female,34.17,-82.37,605,fair
+189,,,gen X,Male,30.44,-97.62,730,good
+741,,,silent generation,Male,42.35,-71.06,826,excellent
+1566,,,gen X,Male,38.69,-121.31,718,good
+937,,,gen X,Female,41.01,-73.84,603,fair
+1396,,,gen Z,Male,39.21,-76.72,732,good
+101,,,gen Z,Female,32.88,-105.95,681,good
+1032,,,baby boomer,Female,36.81,-119.71,673,good
+1255,,,gen Z,Male,35.37,-85.38,681,good
+1099,,,gen Z,Male,46.86,-96.75,763,very good
+111,,,millennials,Female,33.79,-82.47,738,good
+1761,,,gen Z,Female,38.65,-121.25,703,good
+339,,,gen Z,Female,32.61,-90.03,843,excellent
+1918,1918,349350,gen X,Male,32.59,-85.48,550,poor
+851,851,287889,silent generation,Female,38.21,-85.23,757,very good
+563,563,810839,baby boomer,Male,39.87,-75.92,737,good
+133,133,450279,millennials,Female,33.95,-84.54,698,good
+1717,1717,1006434,baby boomer,Female,43.06,-78.27,726,good
+913,913,153674,baby boomer,Male,28.3,-81.41,693,good
+747,747,254834,baby boomer,Male,39.33,-82.23,687,good
+1551,1551,970757,gen X,Male,40.15,-89.36,687,good
+219,219,134692,gen X,Male,44.01,-84.8,798,very good
+1086,1086,384152,baby boomer,Female,42.02,-71.21,698,good
+575,575,363637,silent generation,Male,40.15,-74.85,813,excellent
+1702,1702,279579,gen X,Female,33.99,-117.53,691,good
+1750,1750,729852,gen X,Female,41.8,-87.87,741,very good
+638,638,383390,baby boomer,Female,41.54,-96.13,679,good
+643,643,315802,millennials,Female,40.69,-73.75,697,good
+1421,1421,182689,millennials,Male,35.11,-77.07,740,very good
+1954,1954,767299,gen X,Female,33.94,-117.95,683,good
+963,963,125021,gen Z,Female,42.63,-71.32,687,good
+341,,,gen X,Male,40.87,-73.4,734,good
+1865,,,gen Z,Male,40.04,-75.42,782,very good
+1900,,,baby boomer,Female,43.06,-87.96,688,good
+336,,,gen Z,Male,40.71,-74.06,760,very good
+10,,,millennials,Male,25.77,-80.2,727,good
+1322,,,millennials,Female,39.67,-75.75,636,fair
+1112,,,millennials,Female,31.09,-97.71,760,very good
+1363,,,gen Z,Male,42.72,-78.83,690,good
+1768,,,millennials,Female,40.43,-75.34,573,poor
+1328,,,millennials,Female,40.16,-83.06,600,fair
+186,,,baby boomer,Female,36.1,-115.02,705,good
+1522,,,silent generation,Female,40.94,-74.24,593,fair
+815,,,gen Z,Male,33.61,-112.46,756,very good
+1440,,,millennials,Male,41.42,-78.55,630,fair
+1419,,,gen X,Female,33.74,-84.37,647,fair
+1442,1442,617122,gen X,Male,43.01,-114.7,624,fair
+152,152,819810,millennials,Female,33.72,-84.32,773,very good
+1307,1307,795716,gen X,Female,37.89,-122.03,646,fair
+335,335,624774,gen X,Female,26.74,-80.12,688,good
+1330,1330,830812,baby boomer,Female,34.4,-119.72,575,poor
+1671,1671,289088,gen X,Male,27.95,-82.48,604,fair
+526,526,618604,gen X,Female,25.77,-80.2,627,fair
+1027,1027,562201,gen X,Male,38.88,-94.81,693,good
+213,213,614170,millennials,Female,32.91,-96.62,629,fair
+349,349,223450,gen X,Female,40.84,-81.63,685,good
+1116,1116,1040575,silent generation,Female,40.32,-75.32,755,very good
+1530,1530,61459,baby boomer,Female,32.93,-97.22,732,good
+793,793,275865,baby boomer,Female,26.14,-80.13,703,good
+992,992,544752,gen X,Male,37.37,-77.5,700,good
+207,207,216075,baby boomer,Female,36.58,-79.4,745,very good
+198,198,302853,gen X,Female,27.95,-82.48,702,good
+68,68,690304,gen X,Male,41.55,-90.6,704,good
+1360,1360,160541,gen X,Male,30.75,-86.57,672,good
+743,743,275129,gen X,Female,35.64,-78.0,682,good
+1979,1979,323276,millennials,Female,26.37,-80.1,738,good
+1656,1656,87861,millennials,Female,45.87,-95.37,706,good
+1592,,,gen Z,Male,37.5,-122.3,708,good
+1349,,,gen X,Female,29.76,-95.38,799,very good
+1658,,,millennials,Female,41.84,-87.75,695,good
+1930,,,millennials,Male,33.2,-97.75,721,good
+296,,,gen X,Male,40.81,-74.1,814,excellent
+1149,,,millennials,Male,26.14,-80.13,661,fair
+539,,,gen Z,Female,42.7,-84.55,765,very good
+175,,,millennials,Female,40.68,-73.37,675,good
+1134,,,gen Z,Female,29.45,-98.5,568,poor
+7,,,silent generation,Male,39.3,-76.61,650,fair
+283,,,gen Z,Male,40.75,-103.06,680,good
+127,127,752056,gen X,Male,31.7,-86.26,729,good
+1654,1654,1264271,gen X,Male,41.47,-71.3,693,good
+1872,1872,433508,baby boomer,Male,33.95,-84.54,804,excellent
+1147,1147,995630,silent generation,Male,40.6,-74.76,704,good
+464,464,1882610,millennials,Male,28.5,-81.37,850,excellent
+1398,1398,910401,gen X,Male,40.85,-74.4,745,very good
+1810,1810,317274,baby boomer,Male,42.22,-83.36,711,good
+705,705,1003033,silent generation,Female,37.91,-122.01,609,fair
+447,447,235674,silent generation,Male,43.22,-86.25,796,very good
+615,615,671238,millennials,Female,29.43,-95.24,713,good
+1164,1164,890561,gen X,Male,37.76,-122.44,675,good
+652,652,394423,silent generation,Female,41.76,-72.61,784,very good
+1805,1805,206526,millennials,Male,45.99,-84.36,718,good
+164,164,289697,silent generation,Male,40.84,-84.33,658,fair
+450,450,408180,millennials,Male,37.07,-76.51,739,good
+1067,1067,413717,silent generation,Male,37.54,-97.25,719,good
+280,280,564617,gen X,Female,37.92,-122.34,684,good
+74,74,215691,gen X,Female,38.86,-104.76,783,very good
+1854,1854,472902,gen X,Male,35.06,-85.25,625,fair
+1773,,,gen Z,Male,29.76,-95.38,742,very good
+306,,,gen Z,Male,42.28,-71.16,725,good
+1036,,,gen Z,Male,40.1,-74.93,722,good
+1275,,,millennials,Female,34.04,-118.29,611,fair
+1679,,,gen Z,Female,41.76,-71.48,776,very good
+1343,,,gen Z,Female,41.83,-87.68,575,poor
+1064,,,gen X,Female,37.68,-122.43,654,fair
+1628,,,baby boomer,Male,39.77,-86.14,786,very good
+1982,,,millennials,Male,40.13,-75.06,699,good
+787,,,gen Z,Female,29.61,-95.61,767,very good
+640,,,millennials,Female,40.42,-104.74,629,fair
+541,,,gen X,Female,35.63,-95.95,645,fair
+1545,,,gen Z,Male,33.73,-117.05,807,excellent
+1451,1451,1002764,baby boomer,Female,42.41,-70.99,719,good
+986,986,270297,millennials,Male,40.65,-73.58,703,good
+973,973,315518,baby boomer,Male,34.51,-89.94,734,good
+977,977,297234,silent generation,Female,32.59,-96.68,710,good
+1239,1239,378040,millennials,Female,33.78,-117.93,811,excellent
+1923,1923,325291,gen X,Male,37.02,-93.47,850,excellent
+1020,1020,780625,millennials,Female,42.03,-88.08,796,very good
+1211,1211,339946,baby boomer,Female,35.1,-90.0,746,very good
+490,490,1711707,silent generation,Male,29.45,-98.5,699,good
+914,914,348773,millennials,Male,37.68,-97.34,763,very good
+711,711,692922,millennials,Male,39.01,-89.78,657,fair
+1525,1525,324190,gen X,Female,29.88,-90.06,728,good
+871,871,534652,silent generation,Female,42.38,-83.1,690,good
+1617,1617,148885,millennials,Male,39.2,-76.85,659,fair
+716,716,524062,millennials,Male,33.92,-116.83,769,very good
+1459,1459,366204,gen X,Male,35.11,-106.62,707,good
+662,662,723273,millennials,Female,41.86,-88.06,822,excellent
+1257,1257,218322,baby boomer,Male,47.79,-122.3,721,good
+11,11,585806,millennials,Female,39.45,-76.81,714,good
+343,343,251188,baby boomer,Female,37.73,-121.24,764,very good
+328,328,560037,gen X,Male,35.19,-80.83,700,good
+1450,,,gen Z,Male,28.08,-80.6,780,very good
+9,,,millennials,Male,32.63,-117.05,540,poor
+239,,,millennials,Male,44.88,-94.37,682,good
+579,,,millennials,Male,44.02,-88.16,772,very good
+531,,,gen Z,Male,37.18,-113.6,722,good
+1143,,,gen Z,Female,40.55,-74.28,606,fair
+1042,,,gen Z,Female,43.73,-70.55,766,very good
+1200,,,baby boomer,Male,29.76,-95.38,685,good
+651,,,gen X,Female,38.56,-76.07,643,fair
+843,843,298758,millennials,Male,41.84,-87.75,822,excellent
+1184,1184,449359,baby boomer,Male,37.56,-121.98,798,very good
+909,909,927559,millennials,Male,47.11,-122.76,583,fair
+859,859,410895,gen X,Male,36.15,-85.5,631,fair
+1259,1259,978999,baby boomer,Female,41.18,-73.42,700,good
+1526,1526,269972,gen X,Female,40.94,-121.74,671,good
+1571,1571,400824,baby boomer,Female,36.29,-86.6,759,very good
+1684,1684,398804,baby boomer,Male,36.34,-83.28,782,very good
+962,962,225774,millennials,Male,44.52,-87.98,846,excellent
+1695,1695,402041,gen X,Female,33.94,-117.99,709,good
+1012,1012,159071,millennials,Female,39.95,-75.16,693,good
+1582,1582,238127,gen Z,Female,36.46,-121.82,688,good
+355,,,gen Z,Female,35.87,-96.05,691,good
+1999,,,gen Z,Male,31.06,-98.18,683,good
+1368,,,millennials,Female,37.22,-77.28,717,good
+1457,,,gen Z,Male,41.57,-93.61,688,good
+1126,,,gen Z,Male,35.4,-80.59,710,good
+923,,,gen Z,Female,42.68,-82.73,735,good
+1423,,,gen Z,Female,28.8,-81.88,689,good
+641,641,707328,baby boomer,Male,39.98,-82.98,735,good
+332,332,370807,baby boomer,Male,39.52,-85.77,703,good
+511,511,980490,baby boomer,Male,32.21,-110.88,661,fair
+1358,1358,103967,baby boomer,Female,43.1,-89.5,768,very good
+395,395,377689,millennials,Male,32.69,-97.12,739,good
+565,565,621463,gen X,Male,32.98,-96.89,757,very good
+1881,1881,287006,baby boomer,Male,42.05,-83.38,733,good
+59,59,329991,silent generation,Female,32.78,-108.26,695,good
+1516,1516,554975,millennials,Male,37.44,-121.87,755,very good
+430,430,1109231,gen X,Female,41.42,-87.35,685,good
+1591,1591,620637,baby boomer,Female,48.28,-122.62,698,good
+712,712,291408,silent generation,Female,32.63,-117.05,720,good
+798,798,441362,gen X,Female,33.57,-117.14,715,good
+456,456,531032,gen X,Male,26.63,-81.99,751,very good
+400,400,152081,gen X,Female,30.17,-85.67,711,good
+299,299,187336,gen X,Male,40.84,-73.87,622,fair
+1302,1302,545758,baby boomer,Female,36.42,-81.46,694,good
+1076,1076,302261,baby boomer,Female,35.05,-78.87,779,very good
+5,5,292894,baby boomer,Male,42.95,-77.13,711,good
+679,679,172821,baby boomer,Male,41.27,-80.13,765,very good
+51,51,396490,millennials,Female,36.29,-86.6,688,good
+1527,1527,117762,baby boomer,Female,43.32,-71.18,578,poor
+183,,,gen Z,Female,41.83,-87.68,798,very good
+1111,,,gen Z,Female,26.63,-81.99,742,very good
+1938,,,gen Z,Male,29.45,-98.5,795,very good
+1754,,,millennials,Female,34.58,-94.23,562,poor
+1906,,,gen Z,Male,41.26,-96.01,609,fair
+159,,,gen X,Male,32.79,-96.76,707,good
+1631,,,gen Z,Female,30.44,-91.12,740,very good
+861,,,gen Z,Female,41.99,-89.2,793,very good
+443,,,millennials,Male,43.15,-72.36,697,good
+707,,,gen Z,Female,34.72,-82.78,576,poor
+1101,,,millennials,Female,42.11,-72.53,751,very good
+1539,,,gen X,Female,42.82,-83.25,676,good
+1925,,,millennials,Male,45.11,-93.39,679,good
+495,,,gen X,Male,43.04,-76.14,831,excellent
+1109,,,gen Z,Male,37.68,-97.34,639,fair
+1410,,,gen Z,Female,39.3,-76.44,571,poor
+1513,1513,671449,gen X,Male,41.3,-73.13,733,good
+1626,1626,762202,baby boomer,Male,35.15,-89.75,531,poor
+602,602,560744,baby boomer,Male,36.34,-79.67,681,good
+860,860,833776,gen X,Male,39.01,-77.02,692,good
+1956,1956,223329,gen X,Female,33.81,-117.97,739,good
+1242,1242,331360,gen X,Female,41.83,-87.68,641,fair
+1908,1908,1100332,silent generation,Female,35.97,-83.94,733,good
+1324,1324,552855,gen X,Female,27.33,-82.54,663,fair
+1765,1765,495662,gen X,Male,33.46,-82.5,770,very good
+1668,1668,696035,silent generation,Male,42.91,-71.12,751,very good
+103,103,254830,gen X,Female,35.82,-78.65,850,excellent
+293,293,319767,millennials,Female,35.22,-97.34,661,fair
+217,217,381467,gen X,Male,41.77,-87.82,744,very good
+1301,1301,316655,millennials,Female,38.1,-122.63,728,good
+1680,1680,77862,baby boomer,Female,27.95,-82.48,598,fair
+1968,,,millennials,Female,40.94,-73.86,775,very good
+864,,,baby boomer,Female,43.43,-116.32,766,very good
+253,,,baby boomer,Male,38.35,-81.63,664,fair
+1570,,,gen Z,Female,45.93,-88.25,761,very good
+693,,,gen Z,Female,33.09,-96.88,703,good
+1689,,,gen Z,Female,41.29,-72.36,637,fair
+500,,,gen Z,Female,36.5,-80.61,749,very good
+1007,,,baby boomer,Male,40.24,-76.92,618,fair
+1110,,,gen Z,Female,42.86,-71.48,673,good
+342,,,gen Z,Male,38.94,-77.19,699,good
+873,,,gen X,Female,28.24,-81.28,710,good
+1280,,,millennials,Male,34.06,-117.79,641,fair
+1474,,,gen Z,Female,42.5,-96.39,705,good
+210,,,gen X,Male,29.45,-98.5,630,fair
+1889,,,baby boomer,Male,27.97,-82.76,748,very good
+1905,1905,189065,millennials,Male,27.48,-82.57,808,excellent
+1541,1541,477636,gen X,Female,36.09,-84.13,681,good
+321,321,263520,gen X,Male,45.18,-89.7,698,good
+1482,1482,637722,gen X,Male,34.06,-84.27,675,good
+637,637,756745,gen X,Female,40.98,-74.06,771,very good
+17,17,793733,silent generation,Male,35.73,-81.32,759,very good
+623,623,360412,baby boomer,Male,41.53,-87.87,616,fair
+1079,1079,831477,baby boomer,Female,40.66,-73.63,831,excellent
+1073,1073,413359,gen X,Female,41.19,-85.7,770,very good
+1210,1210,343644,millennials,Male,41.0,-76.85,703,good
+1332,1332,347162,baby boomer,Male,41.0,-73.66,712,good
+1633,1633,297771,millennials,Male,33.38,-111.87,687,good
+387,387,82607,millennials,Male,41.4,-82.23,723,good
+908,908,373969,baby boomer,Male,35.69,-78.62,650,fair
+1148,1148,337371,gen X,Male,39.95,-75.16,687,good
+515,515,239654,baby boomer,Male,32.51,-94.76,676,good
+1452,1452,948358,gen X,Female,29.76,-95.38,660,fair
+1685,1685,323173,gen X,Male,33.61,-111.89,681,good
+317,317,174018,baby boomer,Female,39.74,-121.6,715,good
+267,267,146187,baby boomer,Female,37.96,-83.82,765,very good
+675,675,244389,millennials,Male,39.92,-77.8,724,good
+1762,1762,174884,millennials,Male,38.55,-121.49,635,fair
+862,862,227959,gen Z,Female,32.42,-96.67,807,excellent
+1868,,,gen Z,Male,33.9,-117.61,714,good
+1836,,,millennials,Male,28.92,-81.92,748,very good
+139,,,baby boomer,Female,40.64,-73.94,687,good
+1065,,,gen X,Female,33.45,-117.66,792,very good
+1216,,,millennials,Female,37.74,-84.29,601,fair
+559,,,baby boomer,Male,35.97,-97.02,490,poor
+1629,1629,439130,gen X,Female,26.14,-80.13,598,fair
+630,630,1467556,baby boomer,Male,30.33,-81.65,491,poor
+137,137,942434,millennials,Female,36.33,-82.36,644,fair
+1621,1621,443343,baby boomer,Male,32.96,-117.12,744,very good
+1478,1478,407753,millennials,Female,38.93,-121.25,849,excellent
+1464,1464,704165,baby boomer,Female,42.8,-73.92,682,good
+1114,1114,269896,gen X,Male,39.02,-86.93,685,good
+1285,1285,741850,baby boomer,Female,38.83,-77.21,524,poor
+1432,1432,569856,gen X,Male,40.96,-74.61,741,very good
+244,244,222428,gen X,Female,30.58,-84.58,638,fair
+1254,1254,213074,baby boomer,Female,40.12,-88.64,747,very good
+1384,1384,455345,baby boomer,Female,38.53,-90.0,721,good
+1964,1964,424130,baby boomer,Male,35.64,-78.45,643,fair
+45,45,79898,baby boomer,Female,40.86,-74.15,654,fair
+1543,1543,1142908,millennials,Female,34.14,-118.46,684,good
+1901,1901,399893,baby boomer,Female,43.69,-84.76,730,good
+592,592,518973,baby boomer,Male,35.32,-82.46,714,good
+821,821,156918,baby boomer,Male,29.76,-95.38,645,fair
+100,100,406749,baby boomer,Male,35.98,-79.99,813,excellent
+1652,1652,261265,gen X,Female,38.95,-92.32,728,good
+1467,1467,399790,millennials,Female,42.58,-83.14,736,good
+338,338,496591,baby boomer,Female,42.83,-78.63,686,good
+1136,,,gen Z,Male,37.56,-121.98,723,good
+893,,,gen Z,Male,43.05,-74.34,850,excellent
+953,,,gen Z,Male,33.78,-117.33,664,fair
+85,,,millennials,Male,34.92,-76.89,782,very good
+486,,,gen Z,Male,36.25,-115.08,810,excellent
+612,,,silent generation,Female,39.09,-84.51,838,excellent
+1017,,,gen Z,Male,34.14,-119.1,560,poor
+1249,,,gen Z,Female,30.84,-83.27,721,good
+686,,,baby boomer,Male,32.53,-82.92,683,good
+193,,,gen Z,Female,44.48,-103.84,749,very good
+749,,,gen Z,Male,32.75,-97.33,674,good
+1630,,,gen Z,Male,36.11,-80.81,719,good
+1913,1913,472603,baby boomer,Female,42.47,-83.49,619,fair
+1121,1121,812039,gen X,Female,32.78,-79.99,796,very good
+1331,1331,38974,gen X,Female,47.11,-122.76,718,good
+1746,1746,446819,gen X,Female,40.76,-73.74,701,good
+128,128,323691,gen X,Female,29.76,-95.38,722,good
+1946,1946,290580,silent generation,Male,41.47,-81.67,698,good
+1993,1993,538835,baby boomer,Female,37.35,-122.03,786,very good
+545,545,328397,baby boomer,Male,40.67,-89.54,715,good
+1825,1825,481526,baby boomer,Female,39.69,-104.81,718,good
+683,683,407278,baby boomer,Male,40.79,-77.85,704,good
+421,421,580868,gen X,Female,41.97,-91.66,790,very good
+1107,1107,424654,baby boomer,Female,42.23,-76.34,698,good
+734,734,168400,gen X,Female,42.88,-78.85,693,good
+470,470,452447,baby boomer,Male,35.14,-96.49,747,very good
+872,872,573799,baby boomer,Female,41.88,-87.84,655,fair
+1859,1859,339136,baby boomer,Male,41.44,-74.42,836,excellent
+951,951,269927,baby boomer,Female,33.91,-118.23,709,good
+1224,1224,782240,gen X,Male,38.99,-76.93,751,very good
+750,750,214404,baby boomer,Female,35.19,-80.83,694,good
+311,311,195132,gen X,Female,37.18,-113.6,752,very good
+1223,1223,111897,gen X,Male,41.8,-87.92,717,good
+964,964,279048,gen X,Female,40.84,-73.99,689,good
+455,455,429077,gen X,Female,40.66,-73.73,684,good
+534,534,581267,millennials,Female,41.72,-93.6,790,very good
+800,,,millennials,Female,30.44,-87.18,723,good
+195,,,gen Z,Female,28.75,-81.33,688,good
+388,,,millennials,Female,28.92,-81.92,749,very good
+102,,,millennials,Female,33.76,-117.97,649,fair
+1329,,,gen Z,Female,34.08,-117.46,720,good
+919,,,gen X,Female,38.81,-76.75,698,good
+548,,,millennials,Male,38.02,-121.3,809,excellent
+151,,,gen Z,Female,26.23,-80.13,823,excellent
+922,,,gen Z,Male,26.89,-82.05,647,fair
+1040,,,millennials,Female,39.86,-74.82,689,good
+262,,,gen Z,Male,28.82,-96.98,734,good
+1485,1485,457293,baby boomer,Male,33.41,-96.57,618,fair
+106,106,280892,gen X,Male,39.77,-86.14,624,fair
+79,79,303840,baby boomer,Female,30.36,-87.17,625,fair
+2,2,291636,gen X,Male,40.84,-73.87,673,good
+1783,1783,283793,gen X,Male,37.78,-122.24,749,very good
+1137,1137,330162,gen X,Male,35.32,-82.46,669,fair
+954,954,906236,gen X,Male,33.93,-117.49,772,very good
+480,480,617232,gen X,Male,37.91,-122.01,713,good
+1941,1941,453232,millennials,Male,33.14,-95.95,740,very good
+1156,1156,1067441,baby boomer,Female,40.74,-74.33,752,very good
+1651,1651,1367597,millennials,Male,35.15,-89.75,739,good
+509,509,312782,millennials,Male,38.41,-82.43,702,good
+13,13,242982,gen X,Female,37.89,-85.96,588,fair
+1682,1682,334630,baby boomer,Male,47.91,-97.07,716,good
+742,742,468210,baby boomer,Female,38.74,-77.48,698,good
+1495,1495,654484,gen X,Male,39.77,-86.14,770,very good
+184,184,284648,gen X,Female,42.83,-89.07,797,very good
+134,134,361881,gen X,Male,31.84,-106.43,643,fair
+22,22,97877,baby boomer,Male,38.99,-76.88,747,very good
+83,,,millennials,Male,38.29,-77.48,557,poor
+1597,,,gen Z,Male,40.71,-80.1,697,good
+710,,,baby boomer,Female,42.12,-89.25,729,good
+1878,,,gen Z,Male,34.32,-118.38,702,good
+887,,,baby boomer,Male,42.25,-71.9,816,excellent
+504,,,millennials,Female,37.88,-89.49,705,good
+1924,,,gen X,Male,29.97,-92.12,652,fair
+778,,,baby boomer,Male,40.52,-81.47,699,good
+1146,,,gen Z,Female,41.83,-87.68,714,good
+82,,,gen Z,Female,41.83,-87.68,779,very good
+487,487,782952,gen X,Male,42.66,-73.79,735,good
+203,203,277711,baby boomer,Female,32.9,-80.93,776,very good
+39,39,887560,gen X,Female,41.29,-72.36,583,fair
+901,901,269590,gen X,Male,30.44,-87.18,850,excellent
+1615,1615,346405,baby boomer,Female,42.31,-83.21,701,good
+976,976,795485,baby boomer,Female,41.09,-73.42,760,very good
+1378,1378,505105,gen X,Female,44.27,-88.34,614,fair
+316,316,652401,millennials,Male,29.76,-95.38,719,good
+398,398,303704,gen X,Female,38.51,-121.49,737,good
+1074,1074,250928,baby boomer,Female,44.66,-103.85,826,excellent
+1050,1050,726729,gen X,Female,35.98,-78.91,670,good
+238,,,gen Z,Male,41.41,-82.31,675,good
+204,,,millennials,Female,30.64,-97.68,656,fair
+166,,,silent generation,Female,39.15,-75.51,665,fair
+1866,,,gen Z,Male,32.85,-96.96,676,good
+1991,,,gen Z,Male,39.98,-82.98,694,good
+967,,,gen X,Female,43.28,-93.2,699,good
+1426,,,gen Z,Female,40.33,-74.03,805,excellent
+527,,,baby boomer,Male,40.99,-88.72,636,fair
+805,,,gen Z,Female,42.38,-83.1,686,good
+1161,,,gen Z,Male,28.68,-81.51,823,excellent
+431,,,gen Z,Female,30.62,-87.89,691,good
+740,,,millennials,Female,29.76,-95.38,683,good
+759,759,359035,baby boomer,Male,35.92,-86.84,687,good
+327,327,868499,gen X,Male,44.41,-71.97,772,very good
+1274,1274,923749,gen X,Female,41.95,-71.7,705,good
+209,209,341614,baby boomer,Female,31.65,-106.15,716,good
+1598,1598,157762,silent generation,Male,36.83,-119.79,697,good
+185,185,349549,gen X,Female,40.66,-74.19,779,very good
+782,782,672138,gen X,Female,41.28,-84.36,722,good
+1238,1238,1086254,millennials,Female,38.87,-77.1,721,good
+28,28,409262,millennials,Female,38.63,-77.26,789,very good
+658,658,640754,millennials,Female,29.67,-82.33,725,good
+706,706,478049,millennials,Female,38.02,-122.54,602,fair
+273,273,468035,gen X,Female,41.16,-80.56,665,fair
+1744,1744,142182,millennials,Female,35.78,-88.36,693,good
+1967,1967,422272,baby boomer,Male,33.64,-117.67,767,very good
+1504,1504,302327,silent generation,Male,33.57,-101.87,734,good
+264,264,377947,gen X,Male,40.23,-77.02,696,good
+194,194,348602,gen X,Male,40.34,-85.35,746,very good
+1260,1260,113840,millennials,Male,26.14,-80.13,712,good
+883,883,175056,millennials,Male,45.53,-122.6,584,fair
+440,,,gen X,Female,42.67,-70.98,703,good
+765,,,gen Z,Male,37.78,-90.42,778,very good
+131,,,gen Z,Female,34.22,-80.68,688,good
+1743,,,gen Z,Female,39.19,-96.59,774,very good
+889,,,millennials,Male,39.61,-86.11,710,good
+1848,,,millennials,Female,40.1,-74.93,791,very good
+1686,1686,2167580,gen X,Female,39.99,-105.09,708,good
+380,380,286740,gen X,Male,41.57,-93.61,800,excellent
+1144,1144,653149,baby boomer,Female,29.76,-95.38,773,very good
+668,668,324948,silent generation,Female,33.52,-86.79,747,very good
+1002,1002,199294,millennials,Male,35.43,-118.83,716,good
+1926,1926,299514,baby boomer,Female,28.78,-81.27,689,good
+807,807,255531,gen X,Female,42.77,-86.1,691,good
+235,235,394406,millennials,Female,40.71,-73.99,721,good
+62,62,400870,silent generation,Female,41.13,-124.04,716,good
+1992,1992,464320,baby boomer,Female,36.61,-89.81,710,good
+1677,1677,475235,gen X,Male,33.57,-101.87,671,good
+924,924,244877,gen X,Female,40.06,-85.84,645,fair
+525,525,429208,baby boomer,Male,38.29,-120.58,703,good
+1400,,,millennials,Male,32.41,-87.03,698,good
+833,,,gen Z,Female,40.85,-74.1,683,good
+713,,,millennials,Female,48.19,-114.38,691,good
+1374,,,millennials,Female,42.45,-87.84,758,very good
+1000,,,gen Z,Female,41.93,-71.29,687,good
+167,,,millennials,Female,35.88,-80.01,743,very good
+600,,,gen Z,Male,39.96,-76.73,578,poor
+29,,,baby boomer,Female,42.47,-70.96,665,fair
+181,,,millennials,Female,33.86,-84.68,602,fair
+453,,,millennials,Female,32.79,-96.76,655,fair
+930,,,gen Z,Male,32.75,-97.33,691,good
+841,,,gen Z,Male,44.63,-123.0,753,very good
+1627,,,millennials,Male,30.65,-93.89,825,excellent
+1711,,,millennials,Male,45.51,-122.64,728,good
+1948,,,gen Z,Male,38.95,-76.95,685,good
+1172,,,gen X,Male,38.02,-121.3,769,very good
+123,123,310475,gen X,Female,33.24,-84.27,824,excellent
+1221,1221,333870,baby boomer,Female,33.92,-117.24,850,excellent
+1198,1198,641975,silent generation,Male,29.5,-97.44,820,excellent
+1063,1063,684235,baby boomer,Male,41.91,-89.06,716,good
+319,319,505330,baby boomer,Male,36.75,-119.67,628,fair
+1497,1497,417421,baby boomer,Female,38.53,-121.44,623,fair
+543,543,367641,gen X,Female,43.37,-124.14,749,very good
+875,875,162405,millennials,Male,33.23,-87.54,728,good
+1852,1852,708856,baby boomer,Male,33.27,-111.94,685,good
+692,692,291234,gen X,Female,42.92,-82.88,701,good
+1709,1709,270298,baby boomer,Female,40.46,-96.37,744,very good
+1514,1514,277162,gen X,Female,41.37,-82.1,721,good
+542,542,234532,gen X,Female,35.46,-97.51,704,good
+427,427,262821,gen X,Female,36.15,-85.5,705,good
+955,955,61748,millennials,Male,40.28,-80.6,798,very good
+259,,,baby boomer,Female,28.78,-81.27,689,good
+521,,,gen Z,Female,34.06,-118.08,652,fair
+174,,,gen Z,Female,38.35,-81.63,716,good
+266,,,gen Z,Female,34.02,-118.15,724,good
+690,,,baby boomer,Female,39.59,-105.01,692,good
+56,,,gen Z,Female,40.76,-111.84,682,good
+1090,,,baby boomer,Female,40.68,-75.22,850,excellent
